@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="DownloadGridFormat">
+        <item>Grid</item>
+        <item>List</item>
+    </string-array>
+    <string-array name="DownloadGridFormatData">
+        <item>grid</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="GridFormat">
+        <item>Grid</item>
+        <item>List</item>
+        <item>Compact List</item>
+    </string-array>
+    <string-array name="GridFormatData">
+        <item>grid</item>
+        <item>list</item>
+        <item>compact_list</item>
+    </string-array>
+    <string-array name="RatingFormat">
+        <item>5 Star (4.43★)</item>
+        <item>10 Point (5/10)</item>
+        <item>10 Point Decimal (5.5/10.0)</item>
+        <item>100 Point (55/100)</item>
+    </string-array>
+    <string-array name="RatingFormatData">
+        <item>star</item>
+        <item>point10</item>
+        <item>point10d</item>
+        <item>point100</item>
+    </string-array>
+    <string-array name="ThemesOverlayNames">
+        <item>Normal</item>
+        <item>Carnation Pink</item>
+        <item>Orange</item>
+        <item>Dark Green</item>
+        <item>Maroon</item>
+        <item>Navy Blue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Banana</item>
+        <item>Cool</item>
+        <item>Fire</item>
+        
+        <item>Green</item>
+        <item>Apple</item>
+    </string-array>
+    <string-array name="ThemesOverlayValues">
+        <item>Normal</item>
+        <item>CarnationPink</item>
+        <item>Orange</item>
+        <item>DarkGreen</item>
+        <item>Maroon</item>
+        <item>NavyBlue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Banana</item>
+        <item>Blue</item>
+        <item>Red</item>
+        
+        <item>Green</item>
+        <item>GreenApple</item>
+    </string-array>
+    <array name="readerBgColors">
+        <item>@color/readerBackground</item>
+        <item>#2B2C30</item>
+        <item>#F7DFC6</item>
+        <item>#000</item>
+        <item>#FFF</item>
+    </array>
+    <array name="readerTextColors">
+        <item>@color/readerTextColor</item>
+        <item>@color/readerTextColor</item>
+        <item>#593100</item>
+        <item>@color/readerTextColor</item>
+        <item>#111</item>
+    </array>
+    <string-array name="themes_names">
+        <item>Dark</item>
+        <item>Gray</item>
+        <item>Amoled</item>
+        <item>Flashbang</item>
+        <item>Material You</item>
+    </string-array>
+    <string-array name="themes_names_values">
+        <item>AmoledLight</item>
+        <item>Black</item>
+        <item>Amoled</item>
+        <item>Light</item>
+        <item>Monet</item>
+    </string-array>
+    <string-array name="themes_overlay_names">
+        <item>Normal</item>
+        <item>Carnation Pink</item>
+        <item>Dark Green</item>
+        <item>Maroon</item>
+        <item>Navy Blue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Cool</item>
+        <item>Fire</item>
+        <item>Burple</item>
+        <item>Green</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Party</item>
+        <item>Pink Pain</item>
+        <item>Material You</item>
+        <item>Material You (Secondary)</item>
+    </string-array>
+    <string-array name="themes_overlay_names_values">
+        <item>Normal</item>
+        <item>CarnationPink</item>
+        <item>DarkGreen</item>
+        <item>Maroon</item>
+        <item>NavyBlue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Green</item>
+        <item>GreenApple</item>
+        <item>Banana</item>
+        <item>Party</item>
+        <item>Pink</item>
+        <item>Monet</item>
+        <item>Monet2</item>
+    </string-array>
+    <color name="adultColor">#FF6F63</color>
+    <color name="amoledModeLight">#121213</color>
+    <color name="black">#000</color>
+    <color name="blackRipple">#33000000</color>
+    <color name="blackText">#000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="boxItemBackground">#161616</color>
+    <color name="boxNovelColor">#eb3349</color>
+    <color name="colorAccent">#3b65f5</color>
+    <color name="colorOngoing">#F53B66</color>
+    <color name="colorPrimary">#3d50fa</color>
+    <color name="colorPrimaryBanana">#E4D448</color>
+    <color name="colorPrimaryBlue">#5664B7</color>
+    <color name="colorPrimaryBrown">#622C00</color>
+    <color name="colorPrimaryCarnationPink">#BD5DA5</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryDarkGreen">#004500</color>
+    <color name="colorPrimaryGreen">#00BFA5</color>
+    <color name="colorPrimaryGreenApple">#48E484</color>
+    <color name="colorPrimaryGrey">#515151</color>
+    <color name="colorPrimaryMaroon">#451010</color>
+    <color name="colorPrimaryNavyBlue">#000080</color>
+    <color name="colorPrimaryParty">#ea596e</color>
+    <color name="colorPrimaryPink">#ff1493</color>
+    <color name="colorPrimaryPurple">#6200EA</color>
+    <color name="colorPrimaryRed">#D50000</color>
+    <color name="colorPrimarySecond">@color/colorPrimary</color>
+    <color name="colorPrimaryWhite">#FFFFFF</color>
+    <color name="colorSearch">#303135</color>
+    <color name="colorTestFail">#ea596e</color>
+    <color name="colorTestPass">#48E484</color>
+    <color name="darkBar">#121212</color>
+    <color name="darkBarTransparent">#C0121212</color>
+    <color name="dubColorBg">#3B65F5</color>
+    <color name="dubColorText">#121950</color>
+    <color name="grayShimmer">#DCDCDC</color>
+    <color name="grayTextColor">#9ba0a4</color>
+    <color name="hiraethtranslation_header_color">#000000</color>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="iconColor">#9ba0a6</color>
+    <color name="iconGrayBackground">#1C1C20</color>
+    <color name="kolNovelColor">#222222</color>
+    <color name="libread_header_color">#009688</color>
+    <color name="lightBitDarkerGrayBackground">#fff</color>
+    <color name="lightGrayBackground">#eeeeee</color>
+    <color name="lightGrayTextColor">#5f6267</color>
+    <color name="lightIconColor">#5f6267</color>
+    <color name="lightItemBackground">#eeeeee</color>
+    <color name="lightPrimaryGrayBackground">#f1f1f1</color>
+    <color name="lightTextColor">#202125</color>
+    <color name="novelPassionColor">#FFF</color>
+    <color name="primaryBlackBackground">#111111</color>
+    <color name="primaryGrayBackground">#2B2C30</color>
+    <color name="progressBackgroundColor">#1AFFFFFF</color>
+    <color name="ratingColor">#4C3115</color>
+    <color name="ratingColorBg">#FFA662</color>
+    <color name="readLightNovelColor">#FFF</color>
+    <color name="readerBackground">#292832</color>
+    <color name="readerHightlightedMetaInfo">#191919</color>
+    <color name="readerHightlightedTextColor">#6600ABFF</color>
+    <color name="readerTextColor">#cccccc</color>
+    <color name="rewayatARlColor">#222222</color>
+    <color name="roundedTextBorder">#DD0277BD</color>
+    <color name="royalRoadColor">@color/primaryGrayBackground</color>
+    <color name="searchColorTransparent">#1AFFFFFF</color>
+    <color name="semiWhite">#1AFFFFFF</color>
+    <color name="skipOpTransparent">#4D121212</color>
+    <color name="subColorBg">#F53B66</color>
+    <color name="subColorText">#571711</color>
+    <color name="textColor">#e9eaee</color>
+    <color name="transparent">#00000000</color>
+    <color name="typeColorBg">?attr/colorPrimaryDark</color>
+    <color name="typeColorText">#BEC8FF</color>
+    <color name="videoProgress">#66B5B5B5</color>
+    <color name="video_button_ripple">#32FFFFFF</color>
+    <color name="video_ripple">#80FFFFFF</color>
+    <color name="white">#FFF</color>
+    <color name="whiteRipple">#33FFFFFF</color>
+    <color name="whiteText">#FFF</color>
+    <color name="wuxiaWorldOnlineColor">#24242B</color>
+    <color name="wuxiaWorldSiteColor">#1670bf</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="loading_line_height">15dp</dimen>
+    <dimen name="loading_margin">15dp</dimen>
+    <dimen name="loading_radius">3dp</dimen>
+    <dimen name="navbarHeight">0dp</dimen>
+    <dimen name="roundedImageRadius">7dp</dimen>
+    <dimen name="roundedTextBorderRadius">2dp</dimen>
+    <dimen name="roundedTextBorderWidth">0dp</dimen>
+    <dimen name="rounded_button_radius">4dp</dimen>
+    <dimen name="screenEdgeMargin">24dp</dimen>
+    <integer name="loading_time">2000</integer>
+    <string name="alpha_sort">Alphabetical</string>
+    <string name="alpha_sort_az">Alphabetical (A-Z)</string>
+    <string name="alpha_sort_za">Alphabetical (Z-A)</string>
+    <string name="app_name">Anansi</string>
+    <string name="auto_update_key">auto_update</string>
+    <string name="back_to_search">Back to search</string>
+    <string name="background_color">Background Color</string>
+    <string name="background_image_descript">Background Image</string>
+    <string name="backup_failed">Storage permissions missing, please try again</string>
+    <string name="backup_failed_error_format">Error backing up %s</string>
+    <string name="backup_key">backup_key</string>
+    <string name="backup_settings">Backup data</string>
+    <string name="backup_success">Successfully stored data</string>
+    <string name="battery_format">%d%%</string>
+    <string name="bigger_font">Bigger Font</string>
+    <string name="bionic_reading">Bionic Reading</string>
+    <string name="browse_list_icon">Icon</string>
+    <string name="button_scroll">Chapter buttons</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_providers_descript">Change Provider</string>
+    <string formatted="true" name="chapter_format">Chapter %s</string>
+    <string name="chatbot_loading_context">Preparing AnanBot...</string>
+    <string name="chatbot_message_hint">Ask AnanBot about the novel...</string>
+    <string name="clear_history">Clear History</string>
+    <string name="completed">Completed</string>
+    <string name="default_sort">Default</string>
+    <string name="default_text">Default</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="dont_show_again">Don\'t show again</string>
+    <string name="download">Download</string>
+    <string name="download_delete_action">Delete</string>
+    <string name="download_failed">Download failed</string>
+    <string name="download_format_key">download_format</string>
+    <string name="download_ml">Download translation model</string>
+    <string name="download_ml_long">To translate locally the app needs to download the translation model (~30MB)</string>
+    <string name="download_open_action">Open</string>
+    <string name="download_path_key">download_path_key</string>
+    <string name="download_path_pref">Download path</string>
+    <string name="download_perc">Download percentage</string>
+    <string name="download_perc_hl">Download percentage (high to low)</string>
+    <string name="download_perc_lh">Download percentage (low to high)</string>
+    <string name="download_read_action">Read</string>
+    <string name="download_sort">Download count</string>
+    <string name="download_sort_hl">"Download count (high to low)"</string>
+    <string name="download_sort_lh">"Download count (low to high)"</string>
+    <string name="download_started">Download started</string>
+    <string name="download_text">Download</string>
+    <string name="download_update_action">Update</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="downloads_text">Downloads</string>
+    <string name="dropped">Dropped</string>
+    <string name="error_loading_chapter">Error loading chapter</string>
+    <string name="error_loading_novel">Error loading novel</string>
+    <string name="exampleTXT">"this is <annotation key="rounded">a regular</annotation> paragraph."</string>
+    <string name="external_reader_key">external_reader</string>
+    <string name="failed">Failed</string>
+    <string name="filter_dialog_filter">Apply</string>
+    <string name="filter_dialog_general">General:</string>
+    <string name="filter_dialog_genre">Genre:</string>
+    <string name="filter_dialog_order_by">Order by:</string>
+    <string name="filter_dialog_sort_by">Sort by</string>
+    <string name="font">Font</string>
+    <string name="general_settings">General</string>
+    <string name="generate_epub">Generate Epub</string>
+    <string name="generating_epub">Generating Epub</string>
+    <string name="google_translate">Google translate</string>
+    <string name="grid_format_key">grid_format</string>
+    <string name="grid_view">Grid</string>
+    <string name="history_more_options">More Options</string>
+    <string name="home_expanded_hide">Hide</string>
+    <string name="home_more_info">More info</string>
+    <string name="home_title_text">Explore</string>
+    <string name="inf_scroll">Infinite scroll</string>
+    <string name="keep_screen_active">Keep screen active</string>
+    <string name="latest_format">Latest: %s</string>
+    <string name="library_display_mode">Library Display Mode</string>
+    <string name="list_view">List</string>
+    <string name="loading">Loading…</string>
+    <string formatted="true" name="loading_format">Loading %s…</string>
+    <string name="locale_key" translatable="false">locale_key</string>
+    <string name="locale_settings">App Languages</string>
+    <string name="lock_tts">Lock TTS scroll area</string>
+    <string name="long_download_time">Warning, This source has extremely long download time, streaming is recommended</string>
+    <string name="mainpage_filter">Filter</string>
+    <string name="mainpage_sort_by_button_text">Sort</string>
+    <string name="manual_check_update_key">manual_check_update</string>
+    <string name="monke_eating">Monke Eating</string>
+    <string name="more_info">More Info</string>
+    <string name="new_update_found_format">New update found!\n %s -> %s</string>
+    <string name="no_author">Author not found</string>
+    <string name="no_chapters">No Chapters</string>
+    <string name="no_chapters_found">No chapters found</string>
+    <string name="no_data">No Data</string>
+    <string name="no_more_chapters">No more chapters</string>
+    <string name="nothing_read_recently">Nothing read recently</string>
+    <string name="novel">Novel</string>
+    <string name="novel_imagecover_descript">Novel Imagecover</string>
+    <string name="ok">OK</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="open_in_browser">Open In Browser</string>
+    <string name="open_text">Read</string>
+    <string name="overall_rating_format">Overall %s</string>
+    <string name="overscroll_scroll">Overscroll</string>
+    <string name="pause">Pause</string>
+    <string name="paused">Paused</string>
+    <string name="permanently_delete_format">This will permanently delete %s.\nAre you sure?</string>
+    <string name="poster_descript">Poster</string>
+    <string name="poster_open_source_descript">Open Source</string>
+    <string name="primary_color_key">primary_color_key</string>
+    <string name="primary_color_settings">Main Color</string>
+    <string name="provider_lang_key" translatable="false">provider_lang_key</string>
+    <string name="provider_lang_settings">Provider Languages</string>
+    <string name="provider_list_key">provider_list</string>
+    <string name="quickstream_novel_text">Stream read novel</string>
+    <string name="rating_format">Rating Format</string>
+    <string name="rating_format_key">rating_format</string>
+    <string name="re_downloaded">Re-Download</string>
+    <string name="read_action_chapters">Chapters</string>
+    <string formatted="true" name="read_action_chapters_formatted">%d Chapters</string>
+    <string name="read_action_chatbot">AnanBot</string>
+    <string name="read_action_screen_rotation">Screen Rotation</string>
+    <string name="read_action_settings">Settings</string>
+    <string name="read_action_tts">Text To Speech</string>
+    <string name="read_color">Reader Theme</string>
+    <string name="read_display_settings">Settings</string>
+    <string name="read_text_size">Text</string>
+    <string name="reader_font">Reader Font</string>
+    <string name="reading_color">Reading Color</string>
+    <string name="recently_sort">Recently opened</string>
+    <string name="recently_updated_sort">Recently updated</string>
+    <string name="related">Related</string>
+    <string name="reload_chapter">Reload Chapter</string>
+    <string name="reload_chapter_format">Reloading chapter %s</string>
+    <string name="reload_error">Retry connection…</string>
+    <string name="remove">Remove</string>
+    <string name="remove_all_history">Are you sure?\nAll history will be lost.</string>
+    <string name="remove_external_key">remove_external</string>
+    <string name="remove_from_history_format">This remove %s from your history.\nAre you sure?</string>
+    <string name="remove_history">Remove History</string>
+    <string name="reset_value">Reset to default</string>
+    <string formatted="true" name="restore_failed_format">Failed to restore data from file %s</string>
+    <string name="restore_key" translatable="false">restore_key</string>
+    <string name="restore_settings">Restore data from backup</string>
+    <string name="restore_success">Loaded backup file</string>
+    <string name="result_share">Share</string>
+    <string name="resume">Resume</string>
+    <string name="reviews">Reviews</string>
+    <string name="reviews_to_top">To top</string>
+    <string name="rotation_force_landscape">Locked landscape</string>
+    <string name="rotation_force_portrait">Locked portrait</string>
+    <string name="rotation_free">Free</string>
+    <string name="rotation_landscape">Landscape</string>
+    <string name="rotation_portrait">Portrait</string>
+    <string name="rotation_type">Rotation type</string>
+    <string name="scroll_type">Scroll Type</string>
+    <string name="scroll_with_volume_keys">Scroll with volume keys</string>
+    <string name="search_hint">Search Novels</string>
+    <string name="search_providers">Search Providers</string>
+    <string name="search_providers_list_key">search_providers_list</string>
+    <string name="select_chapter">Select Chapter</string>
+    <string name="selectable_text">Selectable text</string>
+    <string name="send">Send</string>
+    <string name="shadow_descript">Shadow</string>
+    <string name="show_battery">Show Battery</string>
+    <string name="show_time">Show Time</string>
+    <string name="sleep_format">%d min</string>
+    <string name="sleep_format_stop">TTS will stop in %d min</string>
+    <string name="sleep_timer">Sleep</string>
+    <string name="smaller_font">Smaller Font</string>
+    <string name="sort_apply">Apply</string>
+    <string name="sort_cancel">Cancel</string>
+    <string name="sort_downloads_descript">Sort Downloads</string>
+    <string name="stopped">Stopped</string>
+    <string name="stream_read">Stream Read</string>
+    <string name="stubbed">Stubbed</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tags">Tags</string>
+    <string name="text_color">Text Color</string>
+    <string name="text_font">Text Font</string>
+    <string name="text_padding">Text Side Margin</string>
+    <string name="text_padding_top">Text Top Margin</string>
+    <string name="text_size">Text Size</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="text_to_speech_channel_description">The TTS notification channel</string>
+    <string name="theme">Theme</string>
+    <string name="theme_key">theme_key</string>
+    <string name="title_chatbot">AnanBot</string>
+    <string name="title_download">Library</string>
+    <string name="title_history">History</string>
+    <string name="title_home">Explore</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+    <string name="tts_locale">Language</string>
+    <string name="tts_voice">Voice</string>
+    <string name="tts_voice_title">TTS Voice</string>
+    <string name="twelve_hour_time">12 Hour time</string>
+    <string name="type_completed">Completed</string>
+    <string name="type_dropped">Dropped</string>
+    <string name="type_none">None</string>
+    <string name="type_on_hold">On-Hold</string>
+    <string name="type_plan_to_read">Plan to Read</string>
+    <string name="type_reading">Reading</string>
+    <string name="update">Update</string>
+    <string name="update_text">Update</string>
+    <string name="user_image_avatar">Avatar</string>
+    <string name="views">Views</string>
+    <string name="votes_format">%d Votes</string>
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorPrimary">?attr/textColor</item>
+        
+        <item name="android:textAllCaps">false</item>
+        
+        <item name="textColorAlertDialogListItem">?attr/textColor</item>
+        <item name="colorControlNormal">?attr/textColor</item>
+        
+        <item name="colorControlActivated">?attr/colorPrimary</item>
+
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowBackground">@drawable/dialog__window_background</item>
+    </style>
+    <style name="AlertDialogCustomBlack" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">?attr/primaryBlackBackground</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+
+        
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:navigationBarColor">?attr/primaryBlackBackground</item>
+    </style>
+    <style name="AlertDialogCustomTransparent" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+    <style name="AmoledMode">
+        <item name="primaryGrayBackground">@color/black</item>
+        <item name="primaryBlackBackground">@color/black</item>
+        <item name="iconGrayBackground">@color/primaryBlackBackground</item>
+        <item name="boxItemBackground">@color/black</item>
+        <item name="textColor">@color/textColor</item>
+        <item name="grayTextColor">@color/grayTextColor</item>
+        <item name="white">@color/white</item>
+        <item name="colorOnPrimary">@color/whiteText</item>
+    </style>
+    <style name="AmoledModeLight" parent="AmoledMode">
+        <item name="primaryGrayBackground">@color/amoledModeLight</item>
+    </style>
+    <style name="AndroidSearchView" parent="AppSearchViewStyle">
+        <item name="android:paddingStart">-10dp</item>
+    </style>
+    <style name="AppBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style>
+    <style name="AppButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style>
+    <style name="AppEditStyle" parent="android:Widget.EditText">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style>
+    <style name="AppMaterialButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style>
+    <style name="AppModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_dialog</item>
+    </style>
+    <style name="AppSearchViewStyle" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:searchIcon">@drawable/search_icon</item>
+        <item name="android:queryHint">@string/search_hint</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:fontFamily">@font/google_sans</item>
+        
+    </style>
+    <style name="AppTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style>
+    <style name="AppTheme" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" ns1:targetApi="35">true</item>
+
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:navigationBarColor">?attr/primaryBlackBackground</item>
+        <item name="android:colorEdgeEffect">?attr/textColor</item>
+
+        
+        <item name="android:statusBarColor">?attr/iconGrayBackground</item>
+
+        <item name="android:scrollbarThumbVertical">@null</item>
+        <item name="android:scrollbarThumbHorizontal">@null</item>
+
+        <item name="android:windowTranslucentStatus">true</item> 
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="alertDialogTheme">@style/Theme.AlertDialog</item>
+
+        <item name="android:textViewStyle">@style/AppTextViewStyle</item>
+        <item name="android:buttonStyle">@style/AppButtonStyle</item>
+        <item name="android:editTextStyle">@style/AppEditStyle</item>
+        <item name="materialButtonStyle">@style/AppMaterialButtonStyle</item>
+        <item name="preferenceFragmentCompatStyle">@style/PreferenceTheme</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+        <item name="searchViewStyle">@style/AppSearchViewStyle</item>
+        <item name="android:searchViewStyle">@style/AndroidSearchView</item>
+
+        <item name="tabStyle">@style/Theme.Widget.Tabs</item>
+        <item name="android:divider">@color/transparent</item>
+        <item name="divider">@color/transparent</item>
+        <item name="android:dividerHeight">0dp</item>
+        <item name="showDividers">none</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+
+        
+
+        
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorSecondary">?attr/grayTextColor</item>
+
+        <item name="android:textColorHint">?attr/grayTextColor</item>
+        <item name="android:editTextColor">?attr/textColor</item>
+        <item name="android:colorForeground">?attr/textColor</item>
+        <item name="android:colorControlHighlight">?attr/textColor</item> 
+
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        
+
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textColor">@color/textColor</item>
+        <item name="colorOnPrimary">@color/whiteText</item>
+        <item name="grayTextColor">@color/grayTextColor</item>
+        <item name="primaryGrayBackground">@color/primaryGrayBackground</item>
+        <item name="primaryBlackBackground">@color/primaryBlackBackground</item>
+        <item name="iconGrayBackground">@color/iconGrayBackground</item>
+        <item name="boxItemBackground">@color/boxItemBackground</item>
+        <item name="iconColor">?attr/textColor</item>
+        <item name="white">#FFF</item>
+
+        
+    </style>
+    <style name="BlackButton" parent="NiceButton">
+        <item name="strokeColor">?attr/textColor</item>
+        <item name="backgroundTint">?attr/iconGrayBackground</item>
+        <item name="iconTint">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="rippleColor">?attr/textColor</item>
+    </style>
+    <style name="CheckLabel" parent="@style/NoCheckLabel">
+
+        <item name="drawableTint">@color/check_selection_color</item>
+        
+        <item name="android:checkMark">?android:attr/listChoiceIndicatorSingle</item>
+        <item name="drawableStartCompat">@drawable/ic_baseline_check_24_listview</item>
+    </style>
+    <style name="ChipFilled" parent="@style/Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_color</item>
+        <item name="chipStrokeColor">@color/white_transparent_toggle</item>
+        <item name="chipStrokeWidth">2dp</item>
+        <item name="textColor">@color/chip_color_text</item>
+        <item name="android:textColor">@color/chip_color_text</item>
+        <item name="checkedIconTint">@color/chip_color_text</item>
+        <item name="fontFamily">@font/google_sans</item>
+        <item name="chipIconTint">@color/chip_color_text</item>
+        <item name="android:fontFamily">@font/google_sans</item>
+        <item name="chipMinTouchTargetSize">0dp</item>
+    </style>
+    <style name="ChipFilledSemiTransparent" parent="@style/ChipFilled">
+        <item name="chipBackgroundColor">@color/transparent</item>
+        <item name="chipSurfaceColor">@color/semiWhite</item>
+        <item name="backgroundColor">@color/transparent</item>
+    </style>
+    <style name="ChipParent">
+        <item name="chipSpacingVertical">5dp</item>
+        <item name="chipSpacingHorizontal">5dp</item>
+        <item name="textColor">?attr/textColor</item>
+    </style>
+    <style name="ChipReview" parent="ChipFilled">
+        <item name="chipBackgroundColor">?attr/primaryGrayBackground</item>
+        <item name="textColor">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="ChipReviewAlt" parent="ChipFilled">
+        <item name="chipBackgroundColor">?attr/textColor</item>
+        <item name="textColor">?attr/primaryGrayBackground</item>
+        <item name="android:textColor">?attr/primaryGrayBackground</item>
+
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="LightMode">
+        <item name="primaryGrayBackground">@color/lightPrimaryGrayBackground</item>
+        <item name="primaryBlackBackground">@color/lightBitDarkerGrayBackground</item>
+        <item name="iconGrayBackground">@color/lightGrayBackground</item>
+        <item name="boxItemBackground">@color/lightItemBackground</item>
+        <item name="textColor">@color/lightTextColor</item>
+        <item name="grayTextColor">@color/lightGrayTextColor</item>
+        <item name="white">#000</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+    </style>
+    <style name="ListViewStyle" parent="Widget.AppCompat.ListView">
+        <item name="android:divider">@null</item>
+        <item name="android:listSelector">@drawable/outline_drawable_less</item>
+        <item name="android:drawSelectorOnTop">false</item>
+    </style>
+    <style name="LoadedStyle">
+        <item name="android:navigationBarColor">?attr/primaryGrayBackground</item>
+        <item name="android:windowBackground">?attr/primaryBlackBackground</item>
+    </style>
+    <style name="MonetMode">
+        <item name="primaryGrayBackground">@color/material_dynamic_neutral20</item>
+        <item name="primaryBlackBackground">@color/material_dynamic_neutral10</item>
+        <item name="iconGrayBackground">@color/material_dynamic_neutral20</item>
+        <item name="boxItemBackground">@color/material_dynamic_neutral20</item>
+        <item name="textColor">@color/material_dynamic_neutral90</item>
+        <item name="grayTextColor">@color/material_dynamic_neutral60</item>
+        <item name="white">@color/material_dynamic_neutral90</item>
+        <item name="colorOnPrimary">@color/material_on_primary_emphasis_medium</item>
+    </style>
+    <style name="NiceButton">
+        
+        <item name="android:stateListAnimator">@null</item>
+
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconSize">20dp</item>
+        <item name="cornerRadius">@dimen/rounded_button_radius</item>
+        <item name="android:textSize">15sp</item>
+
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:foreground">@drawable/outline_drawable_less</item>
+    </style>
+    <style name="NoCheckLabel" parent="@style/AppTextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="android:textColor">@color/text_selection_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:drawablePadding">20dp</item>
+    </style>
+    <style name="OverlayPrimaryColorBanana">
+        <item name="colorPrimary">@color/colorPrimaryBanana</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBanana</item>
+        <item name="colorPrimaryDark">#9B7D31</item>
+        <item name="colorAccent">#C5B251</item>
+        <item name="colorOnPrimary">#C5A851</item>
+        <item name="android:colorAccent">@color/colorPrimaryBanana</item>
+    </style>
+    <style name="OverlayPrimaryColorBlue">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">#4855A2</item>
+        <item name="colorAccent">#5A6BCB</item>
+        <item name="colorOnPrimary">#5A6BCB</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryBlue</item>
+    </style>
+    <style name="OverlayPrimaryColorBrown">
+        <item name="colorPrimary">@color/colorPrimaryBrown</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBrown</item>
+        <item name="colorPrimaryDark">#582700</item>
+        <item name="colorAccent">#622C00</item>
+        <item name="colorOnPrimary">#622C00</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryBrown</item>
+    </style>
+    <style name="OverlayPrimaryColorCarnationPink">
+        <item name="colorPrimary">@color/colorPrimaryCarnationPink</item>
+        <item name="android:colorPrimary">@color/colorPrimaryCarnationPink</item>
+        <item name="colorPrimaryDark">#83366f</item>
+        <item name="colorAccent">#BD5DA5</item>
+        <item name="colorOnPrimary">#BD5DA5</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryCarnationPink</item>
+    </style>
+    <style name="OverlayPrimaryColorDarkGreen">
+        <item name="colorPrimary">@color/colorPrimaryDarkGreen</item>
+        <item name="android:colorPrimary">@color/colorPrimaryDarkGreen</item>
+        <item name="colorPrimaryDark">#003d00</item>
+        <item name="colorAccent">#004500</item>
+        <item name="colorOnPrimary">#004500</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryDarkGreen</item>
+    </style>
+    <style name="OverlayPrimaryColorGreen">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">#007363</item>
+        <item name="colorAccent">#39C1AE</item>
+        <item name="colorOnPrimary">#39C1AE</item>
+        <item name="android:colorAccent">@color/colorPrimaryGreen</item>
+    </style>
+    <style name="OverlayPrimaryColorGreenApple">
+        <item name="colorPrimary">@color/colorPrimaryGreenApple</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGreenApple</item>
+        <item name="colorPrimaryDark">#319B5A</item>
+        <item name="colorAccent">#51C57E</item>
+        <item name="colorOnPrimary">#51C57E</item>
+        <item name="android:colorAccent">@color/colorPrimaryGreenApple</item>
+    </style>
+    <style name="OverlayPrimaryColorGrey">
+        <item name="colorPrimary">@color/colorPrimaryGrey</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGrey</item>
+        <item name="colorPrimaryDark">#484848</item>
+        <item name="colorAccent">#515151</item>
+        <item name="colorOnPrimary">#515151</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryGrey</item>
+    </style>
+    <style name="OverlayPrimaryColorMaroon">
+        <item name="colorPrimary">@color/colorPrimaryMaroon</item>
+        <item name="android:colorPrimary">@color/colorPrimaryMaroon</item>
+        <item name="colorPrimaryDark">#370C0C</item>
+        <item name="colorAccent">#451010</item>
+        <item name="colorOnPrimary">#451010</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryMaroon</item>
+    </style>
+    <style name="OverlayPrimaryColorMonet">
+        <item name="colorPrimary">@color/material_dynamic_primary80</item>
+        <item name="android:colorPrimary">@color/material_dynamic_primary80</item>
+        <item name="colorPrimaryDark">@color/material_dynamic_primary30</item>
+        <item name="colorAccent">@color/material_dynamic_primary80</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary20</item>
+        
+        <item name="android:colorAccent">@color/material_dynamic_primary80</item>
+    </style>
+    <style name="OverlayPrimaryColorMonetTwo">
+        <item name="colorPrimary">@color/material_dynamic_secondary80</item>
+        <item name="android:colorPrimary">@color/material_dynamic_secondary80</item>
+        <item name="colorPrimaryDark">@color/material_dynamic_secondary30</item>
+        <item name="colorAccent">@color/material_dynamic_secondary80</item>
+        <item name="colorOnPrimary">@color/material_dynamic_secondary20</item>
+        
+        <item name="android:colorAccent">@color/material_dynamic_secondary80</item>
+    </style>
+    <style name="OverlayPrimaryColorNavyBlue">
+        <item name="colorPrimary">@color/colorPrimaryNavyBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryNavyBlue</item>
+        <item name="colorPrimaryDark">#000073</item>
+        <item name="colorAccent">#000080</item>
+        <item name="colorOnPrimary">#000080</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryNavyBlue</item>
+    </style>
+    <style name="OverlayPrimaryColorNormal">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorOnPrimary">@color/colorAccent</item>
+        
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="OverlayPrimaryColorParty">
+        <item name="colorPrimary">@color/colorPrimaryParty</item>
+        <item name="android:colorPrimary">@color/colorPrimaryParty</item>
+        <item name="colorPrimaryDark">#C1495B</item>
+        <item name="colorAccent">#FD798C</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+        <item name="android:colorAccent">@color/colorPrimaryParty</item>
+    </style>
+    <style name="OverlayPrimaryColorPink">
+        <item name="colorPrimary">@color/colorPrimaryPink</item>
+        <item name="android:colorPrimary">@color/colorPrimaryPink</item>
+        <item name="colorPrimaryDark">#DD1280</item>
+        <item name="colorAccent">#FF4DAE</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+        <item name="android:colorAccent">@color/colorPrimaryPink</item>
+    </style>
+    <style name="OverlayPrimaryColorPurple">
+        <item name="colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="android:colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="colorPrimaryDark">#4704A3</item>
+        <item name="colorAccent">#7125DB</item>
+        <item name="colorOnPrimary">#7125DB</item>
+        <item name="android:colorAccent">@color/colorPrimaryPurple</item>
+    </style>
+    <style name="OverlayPrimaryColorRed">
+        <item name="colorPrimary">@color/colorPrimaryRed</item>
+        <item name="android:colorPrimary">@color/colorPrimaryRed</item>
+        <item name="colorPrimaryDark">#D53333</item>
+        <item name="colorAccent">#F53B3B</item>
+        <item name="colorOnPrimary">#EC3838</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryRed</item>
+    </style>
+    <style name="OverlayPrimaryColorWhite">
+        <item name="colorPrimary">@color/colorPrimaryWhite</item>
+        <item name="android:colorPrimary">@color/colorPrimaryWhite</item>
+        <item name="colorPrimaryDark">#CCCCCC</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryWhite</item>
+    </style>
+    <style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:backgroundTint">?attr/primaryBlackBackground</item>
+    </style>
+    <style name="PreferenceTheme" parent="@style/AppTheme"/>
+    <style name="PreferencesTheme" parent="@style/Base.Theme.AppCompat">
+        <item name="android:textColorPrimary">?attr/textColor</item>
+        <item name="android:textColorSecondary">?attr/grayTextColor</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+        
+    </style>
+    <style name="ReadButtonStyle" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="rippleColor">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="iconTint">?attr/textColor</item>
+        <item name="iconPadding">10dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="iconGravity">textStart</item>
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="ResultInfoText">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="textColor">?attr/white</item>
+
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">24dp</item>
+        <item name="android:minWidth">0dp</item>
+        
+    </style>
+    <style name="RoundedBgTextView" parent="@android:style/Widget.TextView">
+        <item name="roundedTextHorizontalPadding">2dp</item>
+        <item name="roundedTextVerticalPadding">2dp</item>
+        <item name="roundedTextDrawable">@drawable/rounded_text_bg</item>
+        <item name="roundedTextDrawableLeft">@drawable/rounded_text_bg_left</item>
+        <item name="roundedTextDrawableMid">@drawable/rounded_text_bg_mid</item>
+        <item name="roundedTextDrawableRight">@drawable/rounded_text_bg_right</item>
+    </style>
+    <style name="TabNoCaps" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="fontFamily">@font/google_sans</item>
+    </style>
+    <style name="Theme.AlertDialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowBackground">@drawable/dialog__window_background</item>
+
+        <item name="textColorAlertDialogListItem">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorPrimary">?attr/textColor</item>
+
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="Theme.Widget.Tabs" parent="Widget.MaterialComponents.TabLayout.Colored">
+        <item name="tabRippleColor">?attr/textColor</item>
+
+        
+    </style>
+    <style name="WhiteButton" parent="NiceButton">
+        <item name="strokeColor">?attr/iconGrayBackground</item>
+        <item name="backgroundTint">?attr/textColor</item>
+        <item name="iconTint">?attr/iconGrayBackground</item>
+        <item name="android:textColor">?attr/iconGrayBackground</item>
+        <item name="rippleColor">?attr/primaryBlackBackground</item>
+    </style>
+    <style name="WhiteCheckmark">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="textColor">?attr/textColor</item>
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="buttonTint">?attr/white</item>
+        <item name="buttonIconTint">?attr/primaryBlackBackground</item>
+    </style>
+    <declare-styleable name="FlowLayout_Layout">
+        <attr format="dimension" name="itemSpacing"/>
+    </declare-styleable>
+    <declare-styleable name="FlowLayout_Layout_layout_space"/>
+    <declare-styleable name="MainColors">
+        <attr format="color" name="colorPrimary"/>
+        <attr format="color" name="colorSearch"/>
+        <attr format="color" name="colorOngoing"/>
+        <attr format="color" name="colorPrimaryDark"/>
+
+        <attr format="color" name="primaryGrayBackground"/>
+        <attr format="color" name="primaryBlackBackground"/>
+        <attr format="color" name="iconGrayBackground"/>
+        <attr format="color" name="boxItemBackground"/>
+
+        <attr format="color" name="textColor"/>
+        <attr format="color" name="grayTextColor"/>
+        <attr format="color" name="iconColor"/>
+        <attr format="color" name="white"/>
+    </declare-styleable>
+    <declare-styleable name="TextRoundedBgHelper">
+        <attr format="dimension" name="roundedTextHorizontalPadding"/>
+        <attr format="dimension" name="roundedTextVerticalPadding"/>
+        <attr format="reference" name="roundedTextDrawable"/>
+        <attr format="reference" name="roundedTextDrawableLeft"/>
+        <attr format="reference" name="roundedTextDrawableMid"/>
+        <attr format="reference" name="roundedTextDrawableRight"/>
+    </declare-styleable>
+</resources>

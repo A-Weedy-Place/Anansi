@@ -1,0 +1,1094 @@
+[
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_color_selection_outline.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\color_selection_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_sort_24dp.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_sort_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_baseline_save_as_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\baseline_save_as_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\xml_settings.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_color_lens_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_color_lens_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_sharp_clear_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_sharp_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_blackitalic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_bottom_preview.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\bottom_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-mdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_line.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_stay_current_landscape_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_stay_current_landscape_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_search_result_compact.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_quicknovel.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_quicknovel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_readlightnovel3.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_readlightnovel3.png"
+    },
+    {
+        "merged": "com.lagradost.quicknovel.app-debug-69:/layout_read_bottom_settings.xml.flat",
+        "source": "com.lagradost.quicknovel.app-main-71:/layout/read_bottom_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_ranobes.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_ranobes.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_regular.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_netflix_download.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\netflix_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_poster_dynamic.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_poster_dynamic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_pawread.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\pawread.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_search_result_super_compact.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_super_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_custom_toolbar.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_open_in_new_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_open_in_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_screen_lock_landscape_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_screen_lock_landscape_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_bot_message_bubble.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\bot_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_sleep_timer.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\sleep_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_list.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_download_add_bg.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\download_add_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_create_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_create_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_check_selection_color.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\check_selection_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_text_top_bottom_margin.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\text_top_bottom_margin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_result_tag.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_line_short.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_chapter_select_dialog.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\chapter_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_screen_rotation_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_screen_rotation_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_outline_explore_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_outline_explore_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_arrow_upward_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_arrow_upward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_efremnet.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_efremnet.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_line_short2.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_download_result_compact.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\download_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rddone.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rddone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_shadow.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_read_bottom_settings.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\read_bottom_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_toast.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_mainpage_actionbar.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\mainpage_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_readlightnovel2.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_readlightnovel2.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_image_layout.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_libread.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_libread.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_autorenew_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_autorenew_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_pause_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_pause_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\raw_dummy_sound_500ms.mp3.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\raw\\dummy_sound_500ms.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_text_top_bottom_margin_expand.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\text_top_bottom_margin_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_bold.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_line_short_center.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_volume_up_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_volume_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_viewpager_page.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\viewpager_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rdpause.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rdpause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_code_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_code_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_downloads.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_boticon.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\boticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_readlightnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_readlightnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_round_bg_button.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\round_bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_meionovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_meionovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_hiraethtranslation.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_hiraethtranslation.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_dialog__window_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\dialog__window_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_chatbot_view.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\chatbot_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_white_transparent_toggle.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\white_transparent_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_check_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_fiber_new_24px.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\fiber_new_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_sakuranovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_sakuranovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_discord_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_discord_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_nulldrawable.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\nulldrawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_novelfullvip.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_novelfullvip.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_download_actionbar.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\download_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_failed.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_big_icon_wuxiaworldsite.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\big_icon_wuxiaworldsite.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_royalroad.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_royalroad.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_collections_bookmark_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_collections_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_search_icon_white.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\search_icon_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_bigger_font.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\bigger_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rderror.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rderror.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_nav_pop_exit.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\nav_pop_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_image.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_allnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_allnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_play_arrow_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_poster.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_poster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_readlightnovel4.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_readlightnovel4.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_episode.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_nothing.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_outline.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_thinitalic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_result_review.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_spinner_select_dialog.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\spinner_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ripple_regular.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ripple_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_baseline_restore_page_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\baseline_restore_page_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_black.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_loading.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_royalroad2.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_royalroad2.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_azynovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_azynovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_outline_drawable_less.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\outline_drawable_less.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_italic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_boxnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_boxnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rdload.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rdload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_text.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_history_actionbar.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\history_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_sort_bottom_single_choice_down.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_stay_current_portrait_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_stay_current_portrait_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_swipe_vertical_24px.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\swipe_vertical_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_sort_bottom_single_choice.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_morenovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_morenovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_grid_view_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_grid_view_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_nights_stay_24px.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\nights_stay_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_color_selection_check.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\color_selection_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_netflix_pause.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\netflix_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_typing_indicator.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\typing_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_light.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_menu_book_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_tune_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_tune_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_mtlnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_mtlnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_list_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_fast_rewind_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_fast_rewind_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_fast_forward_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_fast_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_color_selection.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\color_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_stop_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_stop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_engnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_engnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_simple_chapter.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\simple_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_font_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\font_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_outline_settings_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_outline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_background_shadow.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\background_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_sort_bottom_single_choice_up.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rounded_dialog.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rounded_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_bottom.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_system_update_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_system_update_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_read_main.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\read_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_outline_less.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\outline_less.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_nav_pop_enter.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\nav_pop_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\menu_home_actionbar.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\menu\\home_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_nav_enter_anim.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\nav_enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_thin.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_filter_list_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_smaller_font.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\smaller_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_notifications_active_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_github_logo.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_github_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_cloud_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_cloud_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_download_button_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\download_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_rewayatar.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_rewayatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_checkmark_check.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\checkmark_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_screen_lock_portrait_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_screen_lock_portrait_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_item_select_color.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\item_select_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_load.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-hdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_big_icon_boxnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\big_icon_boxnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_novelfull.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_novelfull.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_books_emoji.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\books_emoji.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_format_padding_decrease_white_24dp.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\format_padding_decrease_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_indicator_background.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\indicator_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_nav_exit_anim.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\nav_exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_enter_anim.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_arrow_downward_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_arrow_downward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_novelsonline.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_novelsonline.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_circular_progress_bar_clockwise.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\circular_progress_bar_clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_bottom_selection_dialog.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\bottom_selection_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rounded_text_bg_mid.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rounded_text_bg_mid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_title_shadow.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\title_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_translate_24px.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\translate_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_mnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_mnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_readfromnet.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_readfromnet.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_pop_exit.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_big_icon_readlightnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\big_icon_readlightnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_public_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_public_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_big_icon_royalroad.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\big_icon_royalroad.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_filter_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\filter_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_google_sans.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\google_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_exit_anim.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_home_episodes_expanded.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\home_episodes_expanded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_mainpage.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_wuxiaworldsite.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_wuxiaworldsite.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_loading_review.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_monke_eating.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\monke_eating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_color_round_checkmark.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\color_round_checkmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_wuxiaworldonline.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_wuxiaworldonline.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_format_padding_increase_white_24dp.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\format_padding_increase_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_freewebnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_freewebnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_item_chat_message.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_blank_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_blank_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_downloads.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_homepage_parent.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\homepage_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_result_review_tag.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_review_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rounded_text_bg_left.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rounded_text_bg_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_chip_color.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\chip_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_medium.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_overscroll_chapter.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_overscroll_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_novelpassion.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_novelpassion.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_netflix_play.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\netflix_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_browse_list_compact.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\browse_list_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_outline_share_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_outline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_check_24_listview.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_check_24_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_chip_color_text.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\chip_color_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_home_result_grid.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\home_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_search_result_grid.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rounded_text_bg.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rounded_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_novelbin.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_novelbin.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\font_productsans_lightitalic.ttf.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\font\\productsans_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_icon_kolnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\icon_kolnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_bookmark_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_language_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_language_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_white_card.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\white_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_cs3_cloud.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\cs3_cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_user_message_bubble.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\user_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_icon_monochrome.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_icon_monochrome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_outline_drawable.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\outline_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\anim_pop_enter.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_indowebnovel.png.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_indowebnovel.png"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_download_result_grid.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\download_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_history_result_compact.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\history_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_checkmark_select_dialog.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\checkmark_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_single_finished_chapter.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_finished_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_rounded_text_bg_right.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\rounded_text_bg_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\color_text_selection_color.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\color\\text_selection_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_sort_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_big_icon_novelpassion.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\big_icon_novelpassion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\drawable_ic_baseline_font_download_24.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\drawable\\ic_baseline_font_download_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-debug-69:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\activity_main.xml"
+    }
+]

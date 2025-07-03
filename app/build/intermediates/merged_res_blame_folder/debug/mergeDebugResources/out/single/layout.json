@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\viewpager_page.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\viewpager_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\download_result_grid.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\download_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\history_result_compact.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\history_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\download_result_compact.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\download_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\home_episodes_expanded.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\home_episodes_expanded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_line.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_overscroll_chapter.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_overscroll_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\checkmark_select_dialog.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\checkmark_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\search_result_grid.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\result_review_tag.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_review_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\simple_chapter.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\simple_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\result_review.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_list.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\browse_list_compact.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\browse_list_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\read_main.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\read_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_line_short2.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\sort_bottom_single_choice_down.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\color_round_checkmark.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\color_round_checkmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_load.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_line_short_center.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_poster_dynamic.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_poster_dynamic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\sort_bottom_single_choice.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_bottom.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_mainpage.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\sort_bottom_single_choice_up.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_single_choice_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_episode.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\font_bottom_sheet.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\font_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\bottom_preview.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\bottom_preview.xml"
+    },
+    {
+        "merged": "com.lagradost.quicknovel.app-mergeDebugResources-68:/layout/read_bottom_settings.xml",
+        "source": "com.lagradost.quicknovel.app-main-71:/layout/read_bottom_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_text.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\bottom_selection_dialog.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\bottom_selection_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_line_short.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_line_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\spinner_select_dialog.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\spinner_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\sort_bottom_sheet.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\sort_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\image_layout.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\read_bottom_settings.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\read_bottom_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_image.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_failed.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_loading.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\search_result_compact.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\home_result_grid.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\home_result_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\custom_toolbar.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\single_finished_chapter.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\single_finished_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\item_chat_message.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\search_result_super_compact.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\search_result_super_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\chapter_select_dialog.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\chapter_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\toast.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_result.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_poster.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_poster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\result_tag.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\result_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_downloads.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\typing_indicator.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\typing_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\homepage_parent.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\homepage_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\loading_review.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\loading_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\fragment_downloads.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\fragment_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\filter_bottom_sheet.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\filter_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\chatbot_view.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\chatbot_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-mergeDebugResources-68:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Arslan Ahmad\\.gradle\\daemon\\8.11.1\\com.lagradost.quicknovel.app-main-71:\\layout\\activity_main.xml"
+    }
+]

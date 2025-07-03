@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res"><file name="enter_anim" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\enter_anim.xml" qualifiers="" type="anim"/><file name="exit_anim" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\exit_anim.xml" qualifiers="" type="anim"/><file name="nav_enter_anim" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\nav_enter_anim.xml" qualifiers="" type="anim"/><file name="nav_exit_anim" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\nav_exit_anim.xml" qualifiers="" type="anim"/><file name="nav_pop_enter" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\nav_pop_enter.xml" qualifiers="" type="anim"/><file name="nav_pop_exit" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\nav_pop_exit.xml" qualifiers="" type="anim"/><file name="pop_enter" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\pop_enter.xml" qualifiers="" type="anim"/><file name="pop_exit" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\anim\pop_exit.xml" qualifiers="" type="anim"/><file name="check_selection_color" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\check_selection_color.xml" qualifiers="" type="color"/><file name="chip_color" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\chip_color.xml" qualifiers="" type="color"/><file name="chip_color_text" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\chip_color_text.xml" qualifiers="" type="color"/><file name="item_select_color" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\item_select_color.xml" qualifiers="" type="color"/><file name="text_selection_color" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\text_selection_color.xml" qualifiers="" type="color"/><file name="white_transparent_toggle" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\color\white_transparent_toggle.xml" qualifiers="" type="color"/><file name="background_shadow" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\background_shadow.xml" qualifiers="" type="drawable"/><file name="baseline_restore_page_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\baseline_restore_page_24.xml" qualifiers="" type="drawable"/><file name="baseline_save_as_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\baseline_save_as_24.xml" qualifiers="" type="drawable"/><file name="bigger_font" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\bigger_font.xml" qualifiers="" type="drawable"/><file name="big_icon_boxnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\big_icon_boxnovel.png" qualifiers="" type="drawable"/><file name="big_icon_novelpassion" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\big_icon_novelpassion.xml" qualifiers="" type="drawable"/><file name="big_icon_readlightnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\big_icon_readlightnovel.png" qualifiers="" type="drawable"/><file name="big_icon_royalroad" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\big_icon_royalroad.png" qualifiers="" type="drawable"/><file name="big_icon_wuxiaworldsite" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\big_icon_wuxiaworldsite.png" qualifiers="" type="drawable"/><file name="books_emoji" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\books_emoji.xml" qualifiers="" type="drawable"/><file name="boticon" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\boticon.png" qualifiers="" type="drawable"/><file name="bot_message_bubble" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\bot_message_bubble.xml" qualifiers="" type="drawable"/><file name="checkmark_check" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\checkmark_check.xml" qualifiers="" type="drawable"/><file name="circle" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\circle.xml" qualifiers="" type="drawable"/><file name="circle_shape" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\circle_shape.xml" qualifiers="" type="drawable"/><file name="circular_progress_bar_clockwise" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\circular_progress_bar_clockwise.xml" qualifiers="" type="drawable"/><file name="color_selection" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\color_selection.xml" qualifiers="" type="drawable"/><file name="color_selection_check" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\color_selection_check.xml" qualifiers="" type="drawable"/><file name="color_selection_outline" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\color_selection_outline.xml" qualifiers="" type="drawable"/><file name="cs3_cloud" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\cs3_cloud.xml" qualifiers="" type="drawable"/><file name="dialog__window_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\dialog__window_background.xml" qualifiers="" type="drawable"/><file name="download_add_bg" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\download_add_bg.xml" qualifiers="" type="drawable"/><file name="download_button_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\download_button_background.xml" qualifiers="" type="drawable"/><file name="fiber_new_24px" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\fiber_new_24px.xml" qualifiers="" type="drawable"/><file name="format_padding_decrease_white_24dp" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\format_padding_decrease_white_24dp.xml" qualifiers="" type="drawable"/><file name="format_padding_increase_white_24dp" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\format_padding_increase_white_24dp.xml" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon.xml" qualifiers="" type="drawable"/><file name="icon_allnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_allnovel.png" qualifiers="" type="drawable"/><file name="icon_azynovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_azynovel.png" qualifiers="" type="drawable"/><file name="icon_boxnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_boxnovel.png" qualifiers="" type="drawable"/><file name="icon_efremnet" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_efremnet.png" qualifiers="" type="drawable"/><file name="icon_engnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_engnovel.png" qualifiers="" type="drawable"/><file name="icon_freewebnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_freewebnovel.png" qualifiers="" type="drawable"/><file name="icon_hiraethtranslation" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_hiraethtranslation.png" qualifiers="" type="drawable"/><file name="icon_kolnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_kolnovel.png" qualifiers="" type="drawable"/><file name="icon_libread" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_libread.png" qualifiers="" type="drawable"/><file name="icon_mnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_mnovel.png" qualifiers="" type="drawable"/><file name="icon_mtlnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_mtlnovel.png" qualifiers="" type="drawable"/><file name="icon_novelbin" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_novelbin.png" qualifiers="" type="drawable"/><file name="icon_novelfull" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_novelfull.png" qualifiers="" type="drawable"/><file name="icon_novelfullvip" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_novelfullvip.png" qualifiers="" type="drawable"/><file name="icon_novelpassion" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_novelpassion.png" qualifiers="" type="drawable"/><file name="icon_novelsonline" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_novelsonline.png" qualifiers="" type="drawable"/><file name="icon_ranobes" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_ranobes.png" qualifiers="" type="drawable"/><file name="icon_readfromnet" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_readfromnet.png" qualifiers="" type="drawable"/><file name="icon_readlightnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_readlightnovel.png" qualifiers="" type="drawable"/><file name="icon_readlightnovel2" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_readlightnovel2.png" qualifiers="" type="drawable"/><file name="icon_readlightnovel3" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_readlightnovel3.png" qualifiers="" type="drawable"/><file name="icon_readlightnovel4" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_readlightnovel4.png" qualifiers="" type="drawable"/><file name="icon_rewayatar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_rewayatar.png" qualifiers="" type="drawable"/><file name="icon_royalroad" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_royalroad.png" qualifiers="" type="drawable"/><file name="icon_royalroad2" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_royalroad2.png" qualifiers="" type="drawable"/><file name="icon_wuxiaworldonline" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_wuxiaworldonline.png" qualifiers="" type="drawable"/><file name="icon_wuxiaworldsite" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\icon_wuxiaworldsite.png" qualifiers="" type="drawable"/><file name="ic_baseline_add_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_add_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_back_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_arrow_back_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_downward_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_arrow_downward_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_forward_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_arrow_forward_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_upward_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_arrow_upward_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_autorenew_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_autorenew_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_bookmark_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_bookmark_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_bookmark_border_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_bookmark_border_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_check_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_check_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_check_24_listview" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_check_24_listview.xml" qualifiers="" type="drawable"/><file name="ic_baseline_cloud_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_cloud_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_code_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_code_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_collections_bookmark_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_collections_bookmark_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_color_lens_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_color_lens_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_create_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_create_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_delete_outline_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_delete_outline_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_discord_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_discord_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_edit_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_edit_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_fast_forward_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_fast_forward_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_fast_rewind_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_fast_rewind_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_filter_list_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_filter_list_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_font_download_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_font_download_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_grid_view_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_grid_view_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_history_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_history_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_keyboard_arrow_down_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_keyboard_arrow_down_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_language_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_language_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_list_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_list_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_menu_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_menu_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_menu_book_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_menu_book_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_more_vert_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_more_vert_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_notifications_active_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_notifications_active_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_open_in_new_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_open_in_new_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_pause_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_pause_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_play_arrow_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_play_arrow_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_public_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_public_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_screen_lock_landscape_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_screen_lock_landscape_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_screen_lock_portrait_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_screen_lock_portrait_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_screen_rotation_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_screen_rotation_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_send_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_send_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_star_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_star_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_stay_current_landscape_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_stay_current_landscape_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_stay_current_portrait_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_stay_current_portrait_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_stop_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_stop_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_system_update_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_system_update_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_tune_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_tune_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_volume_up_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_baseline_volume_up_24.xml" qualifiers="" type="drawable"/><file name="ic_blank_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_blank_24.xml" qualifiers="" type="drawable"/><file name="ic_check_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_check_24.xml" qualifiers="" type="drawable"/><file name="ic_github_logo" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_github_logo.xml" qualifiers="" type="drawable"/><file name="ic_icon_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_icon_monochrome.xml" qualifiers="" type="drawable"/><file name="ic_indowebnovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_indowebnovel.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_meionovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_meionovel.png" qualifiers="" type="drawable"/><file name="ic_morenovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_morenovel.png" qualifiers="" type="drawable"/><file name="ic_outline_explore_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_outline_explore_24.xml" qualifiers="" type="drawable"/><file name="ic_outline_settings_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_outline_settings_24.xml" qualifiers="" type="drawable"/><file name="ic_outline_share_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_outline_share_24.xml" qualifiers="" type="drawable"/><file name="ic_quicknovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_quicknovel.xml" qualifiers="" type="drawable"/><file name="ic_sakuranovel" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_sakuranovel.png" qualifiers="" type="drawable"/><file name="ic_sharp_clear_24" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_sharp_clear_24.xml" qualifiers="" type="drawable"/><file name="ic_sort_24dp" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ic_sort_24dp.xml" qualifiers="" type="drawable"/><file name="indicator_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\indicator_background.xml" qualifiers="" type="drawable"/><file name="monke_eating" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\monke_eating.xml" qualifiers="" type="drawable"/><file name="netflix_download" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\netflix_download.xml" qualifiers="" type="drawable"/><file name="netflix_pause" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\netflix_pause.xml" qualifiers="" type="drawable"/><file name="netflix_play" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\netflix_play.xml" qualifiers="" type="drawable"/><file name="nights_stay_24px" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\nights_stay_24px.xml" qualifiers="" type="drawable"/><file name="nothing" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\nothing.xml" qualifiers="" type="drawable"/><file name="nulldrawable" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\nulldrawable.xml" qualifiers="" type="drawable"/><file name="outline" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\outline.xml" qualifiers="" type="drawable"/><file name="outline_drawable" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\outline_drawable.xml" qualifiers="" type="drawable"/><file name="outline_drawable_less" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\outline_drawable_less.xml" qualifiers="" type="drawable"/><file name="outline_less" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\outline_less.xml" qualifiers="" type="drawable"/><file name="pawread" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\pawread.png" qualifiers="" type="drawable"/><file name="rddone" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rddone.xml" qualifiers="" type="drawable"/><file name="rderror" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rderror.xml" qualifiers="" type="drawable"/><file name="rdload" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rdload.xml" qualifiers="" type="drawable"/><file name="rdpause" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rdpause.xml" qualifiers="" type="drawable"/><file name="ripple_regular" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\ripple_regular.xml" qualifiers="" type="drawable"/><file name="rounded_dialog" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rounded_dialog.xml" qualifiers="" type="drawable"/><file name="rounded_text_bg" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rounded_text_bg.xml" qualifiers="" type="drawable"/><file name="rounded_text_bg_left" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rounded_text_bg_left.xml" qualifiers="" type="drawable"/><file name="rounded_text_bg_mid" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rounded_text_bg_mid.xml" qualifiers="" type="drawable"/><file name="rounded_text_bg_right" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\rounded_text_bg_right.xml" qualifiers="" type="drawable"/><file name="round_bg_button" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\round_bg_button.xml" qualifiers="" type="drawable"/><file name="search_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\search_background.xml" qualifiers="" type="drawable"/><file name="search_icon" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\search_icon.xml" qualifiers="" type="drawable"/><file name="search_icon_white" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\search_icon_white.xml" qualifiers="" type="drawable"/><file name="shadow" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\shadow.xml" qualifiers="" type="drawable"/><file name="smaller_font" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\smaller_font.xml" qualifiers="" type="drawable"/><file name="splash_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\splash_background.xml" qualifiers="" type="drawable"/><file name="swipe_vertical_24px" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\swipe_vertical_24px.xml" qualifiers="" type="drawable"/><file name="tab_selector" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\tab_selector.xml" qualifiers="" type="drawable"/><file name="text_top_bottom_margin" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\text_top_bottom_margin.xml" qualifiers="" type="drawable"/><file name="text_top_bottom_margin_expand" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\text_top_bottom_margin_expand.xml" qualifiers="" type="drawable"/><file name="title_shadow" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\title_shadow.xml" qualifiers="" type="drawable"/><file name="translate_24px" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\translate_24px.xml" qualifiers="" type="drawable"/><file name="user_message_bubble" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\user_message_bubble.xml" qualifiers="" type="drawable"/><file name="white_card" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\drawable\white_card.xml" qualifiers="" type="drawable"/><file name="google_sans" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\google_sans.xml" qualifiers="" type="font"/><file name="productsans_black" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_black.ttf" qualifiers="" type="font"/><file name="productsans_blackitalic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_blackitalic.ttf" qualifiers="" type="font"/><file name="productsans_bold" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_bold.ttf" qualifiers="" type="font"/><file name="productsans_bolditalic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_bolditalic.ttf" qualifiers="" type="font"/><file name="productsans_italic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_italic.ttf" qualifiers="" type="font"/><file name="productsans_light" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_light.ttf" qualifiers="" type="font"/><file name="productsans_lightitalic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_lightitalic.ttf" qualifiers="" type="font"/><file name="productsans_medium" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_medium.ttf" qualifiers="" type="font"/><file name="productsans_mediumitalic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_mediumitalic.ttf" qualifiers="" type="font"/><file name="productsans_regular" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_regular.ttf" qualifiers="" type="font"/><file name="productsans_thin" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_thin.ttf" qualifiers="" type="font"/><file name="productsans_thinitalic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\font\productsans_thinitalic.ttf" qualifiers="" type="font"/><file name="activity_main" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="bottom_preview" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\bottom_preview.xml" qualifiers="" type="layout"/><file name="bottom_selection_dialog" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\bottom_selection_dialog.xml" qualifiers="" type="layout"/><file name="browse_list_compact" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\browse_list_compact.xml" qualifiers="" type="layout"/><file name="chapter_select_dialog" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\chapter_select_dialog.xml" qualifiers="" type="layout"/><file name="chatbot_view" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\chatbot_view.xml" qualifiers="" type="layout"/><file name="checkmark_select_dialog" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\checkmark_select_dialog.xml" qualifiers="" type="layout"/><file name="color_round_checkmark" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\color_round_checkmark.xml" qualifiers="" type="layout"/><file name="custom_toolbar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\custom_toolbar.xml" qualifiers="" type="layout"/><file name="download_result_compact" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\download_result_compact.xml" qualifiers="" type="layout"/><file name="download_result_grid" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\download_result_grid.xml" qualifiers="" type="layout"/><file name="filter_bottom_sheet" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\filter_bottom_sheet.xml" qualifiers="" type="layout"/><file name="font_bottom_sheet" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\font_bottom_sheet.xml" qualifiers="" type="layout"/><file name="fragment_downloads" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_downloads.xml" qualifiers="" type="layout"/><file name="fragment_history" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_history.xml" qualifiers="" type="layout"/><file name="fragment_home" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_home.xml" qualifiers="" type="layout"/><file name="fragment_mainpage" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_mainpage.xml" qualifiers="" type="layout"/><file name="fragment_result" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_result.xml" qualifiers="" type="layout"/><file name="fragment_search" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\fragment_search.xml" qualifiers="" type="layout"/><file name="history_result_compact" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\history_result_compact.xml" qualifiers="" type="layout"/><file name="homepage_parent" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\homepage_parent.xml" qualifiers="" type="layout"/><file name="home_episodes_expanded" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\home_episodes_expanded.xml" qualifiers="" type="layout"/><file name="home_result_grid" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\home_result_grid.xml" qualifiers="" type="layout"/><file name="image_layout" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\image_layout.xml" qualifiers="" type="layout"/><file name="item_chat_message" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\item_chat_message.xml" qualifiers="" type="layout"/><file name="loading_bottom" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_bottom.xml" qualifiers="" type="layout"/><file name="loading_downloads" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_downloads.xml" qualifiers="" type="layout"/><file name="loading_episode" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_episode.xml" qualifiers="" type="layout"/><file name="loading_line" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_line.xml" qualifiers="" type="layout"/><file name="loading_line_short" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_line_short.xml" qualifiers="" type="layout"/><file name="loading_line_short2" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_line_short2.xml" qualifiers="" type="layout"/><file name="loading_line_short_center" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_line_short_center.xml" qualifiers="" type="layout"/><file name="loading_list" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_list.xml" qualifiers="" type="layout"/><file name="loading_poster" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_poster.xml" qualifiers="" type="layout"/><file name="loading_poster_dynamic" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_poster_dynamic.xml" qualifiers="" type="layout"/><file name="loading_review" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\loading_review.xml" qualifiers="" type="layout"/><file name="read_bottom_settings" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\read_bottom_settings.xml" qualifiers="" type="layout"/><file name="read_main" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\read_main.xml" qualifiers="" type="layout"/><file name="result_review" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\result_review.xml" qualifiers="" type="layout"/><file name="result_review_tag" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\result_review_tag.xml" qualifiers="" type="layout"/><file name="result_tag" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\result_tag.xml" qualifiers="" type="layout"/><file name="search_result_compact" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\search_result_compact.xml" qualifiers="" type="layout"/><file name="search_result_grid" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\search_result_grid.xml" qualifiers="" type="layout"/><file name="search_result_super_compact" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\search_result_super_compact.xml" qualifiers="" type="layout"/><file name="simple_chapter" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\simple_chapter.xml" qualifiers="" type="layout"/><file name="single_failed" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_failed.xml" qualifiers="" type="layout"/><file name="single_finished_chapter" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_finished_chapter.xml" qualifiers="" type="layout"/><file name="single_image" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_image.xml" qualifiers="" type="layout"/><file name="single_load" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_load.xml" qualifiers="" type="layout"/><file name="single_loading" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_loading.xml" qualifiers="" type="layout"/><file name="single_overscroll_chapter" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_overscroll_chapter.xml" qualifiers="" type="layout"/><file name="single_text" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\single_text.xml" qualifiers="" type="layout"/><file name="sort_bottom_sheet" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\sort_bottom_sheet.xml" qualifiers="" type="layout"/><file name="sort_bottom_single_choice" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\sort_bottom_single_choice.xml" qualifiers="" type="layout"/><file name="sort_bottom_single_choice_down" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\sort_bottom_single_choice_down.xml" qualifiers="" type="layout"/><file name="sort_bottom_single_choice_up" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\sort_bottom_single_choice_up.xml" qualifiers="" type="layout"/><file name="spinner_select_dialog" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\spinner_select_dialog.xml" qualifiers="" type="layout"/><file name="toast" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\toast.xml" qualifiers="" type="layout"/><file name="typing_indicator" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\typing_indicator.xml" qualifiers="" type="layout"/><file name="viewpager_page" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\layout\viewpager_page.xml" qualifiers="" type="layout"/><file name="bottom_nav_menu" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="download_actionbar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\download_actionbar.xml" qualifiers="" type="menu"/><file name="history_actionbar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\history_actionbar.xml" qualifiers="" type="menu"/><file name="home_actionbar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\home_actionbar.xml" qualifiers="" type="menu"/><file name="mainpage_actionbar" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\mainpage_actionbar.xml" qualifiers="" type="menu"/><file name="sleep_timer" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\menu\sleep_timer.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-hdpi\ic_launcher_background.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-hdpi\ic_launcher_monochrome.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-mdpi\ic_launcher_background.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-mdpi\ic_launcher_monochrome.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xhdpi\ic_launcher_monochrome.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxhdpi\ic_launcher_monochrome.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_background" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_monochrome" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\mipmap-xxxhdpi\ic_launcher_monochrome.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="mobile_navigation" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\navigation\mobile_navigation.xml" qualifiers="" type="navigation"/><file name="dummy_sound_500ms" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\raw\dummy_sound_500ms.mp3" qualifiers="" type="raw"/><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\array.xml" qualifiers=""><string-array name="RatingFormat">
+        <item>5 Star (4.43★)</item>
+        <item>10 Point (5/10)</item>
+        <item>10 Point Decimal (5.5/10.0)</item>
+        <item>100 Point (55/100)</item>
+    </string-array><string-array name="RatingFormatData">
+        <item>star</item>
+        <item>point10</item>
+        <item>point10d</item>
+        <item>point100</item>
+    </string-array><string-array name="GridFormat">
+        <item>Grid</item>
+        <item>List</item>
+        <item>Compact List</item>
+    </string-array><string-array name="GridFormatData">
+        <item>grid</item>
+        <item>list</item>
+        <item>compact_list</item>
+    </string-array><string-array name="DownloadGridFormat">
+        <item>Grid</item>
+        <item>List</item>
+    </string-array><string-array name="DownloadGridFormatData">
+        <item>grid</item>
+        <item>list</item>
+    </string-array><string-array name="themes_names">
+        <item>Dark</item>
+        <item>Gray</item>
+        <item>Amoled</item>
+        <item>Flashbang</item>
+        <item>Material You</item>
+    </string-array><string-array name="themes_names_values">
+        <item>AmoledLight</item>
+        <item>Black</item>
+        <item>Amoled</item>
+        <item>Light</item>
+        <item>Monet</item>
+    </string-array><string-array name="themes_overlay_names">
+        <item>Normal</item>
+        <item>Carnation Pink</item>
+        <item>Dark Green</item>
+        <item>Maroon</item>
+        <item>Navy Blue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Cool</item>
+        <item>Fire</item>
+        <item>Burple</item>
+        <item>Green</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Party</item>
+        <item>Pink Pain</item>
+        <item>Material You</item>
+        <item>Material You (Secondary)</item>
+    </string-array><string-array name="themes_overlay_names_values">
+        <item>Normal</item>
+        <item>CarnationPink</item>
+        <item>DarkGreen</item>
+        <item>Maroon</item>
+        <item>NavyBlue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Green</item>
+        <item>GreenApple</item>
+        <item>Banana</item>
+        <item>Party</item>
+        <item>Pink</item>
+        <item>Monet</item>
+        <item>Monet2</item>
+    </string-array><array name="readerBgColors">
+        <item>@color/readerBackground</item>
+        <item>#2B2C30</item>
+        <item>#F7DFC6</item>
+        <item>#000</item>
+        <item>#FFF</item>
+    </array><array name="readerTextColors">
+        <item>@color/readerTextColor</item>
+        <item>@color/readerTextColor</item>
+        <item>#593100</item>
+        <item>@color/readerTextColor</item>
+        <item>#111</item>
+    </array><string-array name="ThemesOverlayNames">
+        <item>Normal</item>
+        <item>Carnation Pink</item>
+        <item>Orange</item>
+        <item>Dark Green</item>
+        <item>Maroon</item>
+        <item>Navy Blue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Banana</item>
+        <item>Cool</item>
+        <item>Fire</item>
+        
+        <item>Green</item>
+        <item>Apple</item>
+    </string-array><string-array name="ThemesOverlayValues">
+        <item>Normal</item>
+        <item>CarnationPink</item>
+        <item>Orange</item>
+        <item>DarkGreen</item>
+        <item>Maroon</item>
+        <item>NavyBlue</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Banana</item>
+        <item>Blue</item>
+        <item>Red</item>
+        
+        <item>Green</item>
+        <item>GreenApple</item>
+    </string-array></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="FlowLayout_Layout">
+        <attr format="dimension" name="itemSpacing"/>
+    </declare-styleable><declare-styleable name="TextRoundedBgHelper">
+        <attr format="dimension" name="roundedTextHorizontalPadding"/>
+        <attr format="dimension" name="roundedTextVerticalPadding"/>
+        <attr format="reference" name="roundedTextDrawable"/>
+        <attr format="reference" name="roundedTextDrawableLeft"/>
+        <attr format="reference" name="roundedTextDrawableMid"/>
+        <attr format="reference" name="roundedTextDrawableRight"/>
+    </declare-styleable><declare-styleable name="FlowLayout_Layout_layout_space"/><declare-styleable name="MainColors">
+        <attr format="color" name="colorPrimary"/>
+        <attr format="color" name="colorSearch"/>
+        <attr format="color" name="colorOngoing"/>
+        <attr format="color" name="colorPrimaryDark"/>
+
+        <attr format="color" name="primaryGrayBackground"/>
+        <attr format="color" name="primaryBlackBackground"/>
+        <attr format="color" name="iconGrayBackground"/>
+        <attr format="color" name="boxItemBackground"/>
+
+        <attr format="color" name="textColor"/>
+        <attr format="color" name="grayTextColor"/>
+        <attr format="color" name="iconColor"/>
+        <attr format="color" name="white"/>
+    </declare-styleable></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\colors.xml" qualifiers=""><color name="readerBackground">#292832</color><color name="readerTextColor">#cccccc</color><color name="readerHightlightedTextColor">#6600ABFF</color><color name="readerHightlightedMetaInfo">#191919</color><color name="roundedTextBorder">#DD0277BD</color><color name="novelPassionColor">#FFF</color><color name="wuxiaWorldOnlineColor">#24242B</color><color name="royalRoadColor">@color/primaryGrayBackground</color><color name="wuxiaWorldSiteColor">#1670bf</color><color name="readLightNovelColor">#FFF</color><color name="boxNovelColor">#eb3349</color><color name="kolNovelColor">#222222</color><color name="rewayatARlColor">#222222</color><color name="whiteRipple">#33FFFFFF</color><color name="blackRipple">#33000000</color><color name="colorPrimary">#3d50fa</color><color name="colorPrimarySecond">@color/colorPrimary</color><color name="colorSearch">#303135</color><color name="colorOngoing">#F53B66</color><color name="colorPrimaryDark">#3700B3</color><color name="colorAccent">#3b65f5</color><color name="primaryGrayBackground">#2B2C30</color><color name="primaryBlackBackground">#111111</color><color name="iconGrayBackground">#1C1C20</color><color name="boxItemBackground">#161616</color><color name="textColor">#e9eaee</color><color name="semiWhite">#1AFFFFFF</color><color name="grayTextColor">#9ba0a4</color><color name="grayShimmer">#DCDCDC</color><color name="searchColorTransparent">#1AFFFFFF</color><color name="transparent">#00000000</color><color name="white">#FFF</color><color name="black">#000</color><color name="whiteText">#FFF</color><color name="blackText">#000</color><color name="progressBackgroundColor">#1AFFFFFF</color><color name="dubColorText">#121950</color><color name="amoledModeLight">#121213</color><color name="dubColorBg">#3B65F5</color><color name="subColorText">#571711</color><color name="subColorBg">#F53B66</color><color name="typeColorText">#BEC8FF</color><color name="typeColorBg">?attr/colorPrimaryDark</color><color name="ratingColor">#4C3115</color><color name="ratingColorBg">#FFA662</color><color name="adultColor">#FF6F63</color><color name="video_ripple">#80FFFFFF</color><color name="video_button_ripple">#32FFFFFF</color><color name="black_overlay">#66000000</color><color name="darkBarTransparent">#C0121212</color><color name="skipOpTransparent">#4D121212</color><color name="darkBar">#121212</color><color name="videoProgress">#66B5B5B5</color><color name="iconColor">#9ba0a6</color><color name="lightPrimaryGrayBackground">#f1f1f1</color><color name="lightBitDarkerGrayBackground">#fff</color><color name="lightGrayBackground">#eeeeee</color><color name="lightItemBackground">#eeeeee</color><color name="lightTextColor">#202125</color><color name="lightGrayTextColor">#5f6267</color><color name="lightIconColor">#5f6267</color><color name="colorPrimaryBlue">#5664B7</color><color name="colorPrimaryRed">#D50000</color><color name="colorPrimaryPurple">#6200EA</color><color name="colorPrimaryGreen">#00BFA5</color><color name="colorPrimaryGreenApple">#48E484</color><color name="colorPrimaryBanana">#E4D448</color><color name="colorPrimaryParty">#ea596e</color><color name="colorPrimaryPink">#ff1493</color><color name="colorPrimaryCarnationPink">#BD5DA5</color><color name="colorPrimaryDarkGreen">#004500</color><color name="colorPrimaryMaroon">#451010</color><color name="colorPrimaryNavyBlue">#000080</color><color name="colorPrimaryGrey">#515151</color><color name="colorPrimaryWhite">#FFFFFF</color><color name="colorPrimaryBrown">#622C00</color><color name="colorTestPass">#48E484</color><color name="colorTestFail">#ea596e</color><color name="libread_header_color">#009688</color><color name="hiraethtranslation_header_color">#000000</color></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="roundedTextBorderRadius">2dp</dimen><dimen name="roundedTextBorderWidth">0dp</dimen><dimen name="roundedImageRadius">7dp</dimen><dimen name="navbarHeight">0dp</dimen><dimen name="screenEdgeMargin">24dp</dimen><dimen name="rounded_button_radius">4dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="loading_line_height">15dp</dimen><dimen name="loading_radius">3dp</dimen><dimen name="loading_margin">15dp</dimen><integer name="loading_time">2000</integer></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#000000</color></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Anansi</string><string name="title_search">Search</string><string name="title_history">History</string><string name="title_settings">Settings</string><string name="title_home">Explore</string><string name="title_download">Library</string><string name="locale_key" translatable="false">locale_key</string><string name="provider_lang_key" translatable="false">provider_lang_key</string><string name="restore_key" translatable="false">restore_key</string><string name="restore_settings">Restore data from backup</string><string name="search_hint">Search Novels</string><string name="synopsis">Synopsis</string><string name="no_data">No Data</string><string name="no_author">Author not found</string><string name="no_chapters">No Chapters</string><string name="generate_epub">Generate Epub</string><string name="generating_epub">Generating Epub</string><string name="reload_error">Retry connection…</string><string name="download_text">Download</string><string name="download">Download</string><string name="download_ml">Download translation model</string><string name="download_ml_long">To translate locally the app needs to download the translation model (~30MB)</string><string name="novel_imagecover_descript">Novel Imagecover</string><string name="background_image_descript">Background Image</string><string name="back_to_search">Back to search</string><string name="downloads_text">Downloads</string><string name="open_text">Read</string><string name="update_text">Update</string><string name="provider_list_key">provider_list</string><string name="search_providers_list_key">search_providers_list</string><string name="auto_update_key">auto_update</string><string name="external_reader_key">external_reader</string><string name="remove_external_key">remove_external</string><string name="manual_check_update_key">manual_check_update</string><string name="backup_key">backup_key</string><string name="rating_format_key">rating_format</string><string name="grid_format_key">grid_format</string><string name="download_format_key">download_format</string><string name="exampleTXT">"this is <annotation key="rounded">a regular</annotation> paragraph."</string><string name="tags">Tags</string><string name="views">Views</string><string name="delete">Delete</string><string name="open_in_browser">Open In Browser</string><string name="select_chapter">Select Chapter</string><string name="poster_descript">Poster</string><string name="sort_downloads_descript">Sort Downloads</string><string name="filter_dialog_sort_by">Sort by</string><string name="filter_dialog_filter">Apply</string><string name="filter_dialog_general">General:</string><string name="filter_dialog_order_by">Order by:</string><string name="filter_dialog_genre">Genre:</string><string name="browse_list_icon">Icon</string><string name="home_title_text">Explore</string><string name="mainpage_filter">Filter</string><string name="shadow_descript">Shadow</string><string name="user_image_avatar">Avatar</string><string name="change_providers_descript">Change Provider</string><string name="poster_open_source_descript">Open Source</string><string name="mainpage_sort_by_button_text">Sort</string><string name="read_action_settings">Settings</string><string name="read_action_chapters">Chapters</string><string formatted="true" name="read_action_chapters_formatted">%d Chapters</string><string name="read_action_tts">Text To Speech</string><string name="read_action_screen_rotation">Screen Rotation</string><string name="read_action_chatbot">AnanBot</string><string name="title_chatbot">AnanBot</string><string name="chatbot_message_hint">Ask AnanBot about the novel...</string><string name="chatbot_loading_context">Preparing AnanBot...</string><string name="send">Send</string><string name="grid_view">Grid</string><string name="list_view">List</string><string name="download_open_action">Open</string><string name="download_read_action">Read</string><string name="download_update_action">Update</string><string name="download_delete_action">Delete</string><string name="default_text">Default</string><string name="rotation_type">Rotation type</string><string name="rotation_free">Free</string><string name="rotation_portrait">Portrait</string><string name="rotation_landscape">Landscape</string><string name="rotation_force_portrait">Locked portrait</string><string name="rotation_force_landscape">Locked landscape</string><string name="inf_scroll">Infinite scroll</string><string name="button_scroll">Chapter buttons</string><string name="overscroll_scroll">Overscroll</string><string name="type_reading">Reading</string><string name="type_on_hold">On-Hold</string><string name="type_completed">Completed</string><string name="type_dropped">Dropped</string><string name="type_plan_to_read">Plan to Read</string><string name="type_none">None</string><string name="read_display_settings">Settings</string><string name="read_text_size">Text</string><string name="bigger_font">Bigger Font</string><string name="smaller_font">Smaller Font</string><string name="scroll_with_volume_keys">Scroll with volume keys</string><string name="general_settings">General</string><string name="lock_tts">Lock TTS scroll area</string><string name="reading_color">Reading Color</string><string name="read_color">Reader Theme</string><string name="show_battery">Show Battery</string><string name="show_time">Show Time</string><string name="result_share">Share</string><string name="reader_font">Reader Font</string><string name="font">Font</string><string name="background_color">Background Color</string><string name="text_color">Text Color</string><string name="long_download_time">Warning, This source has extremely long download time, streaming is recommended</string><string name="quickstream_novel_text">Stream read novel</string><string name="history_more_options">More Options</string><string name="stream_read">Stream Read</string><string name="clear_history">Clear History</string><string name="nothing_read_recently">Nothing read recently</string><string name="monke_eating">Monke Eating</string><string name="tab_downloads">Downloads</string><string name="reviews_to_top">To top</string><string name="text_size">Text Size</string><string name="text_padding">Text Side Margin</string><string name="reset_value">Reset to default</string><string name="text_font">Text Font</string><string name="scroll_type">Scroll Type</string><string name="no_chapters_found">No chapters found</string><string name="error_loading_novel">Error loading novel</string><string name="error_loading_chapter">Error loading chapter</string><string name="text_padding_top">Text Top Margin</string><string name="home_more_info">More info</string><string name="home_expanded_hide">Hide</string><string name="reload_chapter">Reload Chapter</string><string name="provider_lang_settings">Provider Languages</string><string name="locale_settings">App Languages</string><string name="sort_apply">Apply</string><string name="sort_cancel">Cancel</string><string name="keep_screen_active">Keep screen active</string><string name="twelve_hour_time">12 Hour time</string><string name="backup_settings">Backup data</string><string name="restore_success">Loaded backup file</string><string formatted="true" name="restore_failed_format">Failed to restore data from file %s</string><string name="backup_success">Successfully stored data</string><string name="backup_failed">Storage permissions missing, please try again</string><string name="backup_failed_error_format">Error backing up %s</string><string name="tts_locale">Language</string><string name="tts_voice">Voice</string><string name="tts_voice_title">TTS Voice</string><string name="theme_key">theme_key</string><string name="theme">Theme</string><string name="primary_color_key">primary_color_key</string><string name="primary_color_settings">Main Color</string><string name="library_display_mode">Library Display Mode</string><string name="rating_format">Rating Format</string><string name="cancel">Cancel</string><string name="remove">Remove</string><string name="remove_from_history_format">This remove %s from your history.\nAre you sure?</string><string name="permanently_delete_format">This will permanently delete %s.\nAre you sure?</string><string name="remove_all_history">Are you sure?\nAll history will be lost.</string><string name="remove_history">Remove History</string><string name="search_providers">Search Providers</string><string name="no_more_chapters">No more chapters</string><string name="paused">Paused</string><string name="stopped">Stopped</string><string name="failed">Failed</string><string name="done">Done</string><string name="ongoing">Ongoing</string><string name="completed">Completed</string><string name="dropped">Dropped</string><string name="stubbed">Stubbed</string><string name="text_to_speech">Text To Speech</string><string name="text_to_speech_channel_description">The TTS notification channel</string><string name="overall_rating_format">Overall %s</string><string name="battery_format">%d%%</string><string name="novel">Novel</string><string name="reviews">Reviews</string><string name="related">Related</string><string name="votes_format">%d Votes</string><string name="latest_format">Latest: %s</string><string name="new_update_found_format">New update found!\n %s -> %s</string><string name="download_started">Download started</string><string name="download_failed">Download failed</string><string name="update">Update</string><string name="dont_show_again">Don\'t show again</string><string name="downloaded">Downloaded</string><string name="pause">Pause</string><string name="resume">Resume</string><string name="re_downloaded">Re-Download</string><string name="loading">Loading…</string><string formatted="true" name="loading_format">Loading %s…</string><string formatted="true" name="chapter_format">Chapter %s</string><string name="default_sort">Default</string><string name="recently_sort">Recently opened</string><string name="alpha_sort">Alphabetical</string><string name="download_sort">Download count</string><string name="download_perc">Download percentage</string><string name="recently_updated_sort">Recently updated</string><string name="alpha_sort_az">Alphabetical (A-Z)</string><string name="alpha_sort_za">Alphabetical (Z-A)</string><string name="download_sort_hl">"Download count (high to low)"</string><string name="download_sort_lh">"Download count (low to high)"</string><string name="download_perc_hl">Download percentage (high to low)</string><string name="download_perc_lh">Download percentage (low to high)</string><string name="reload_chapter_format">Reloading chapter %s</string><string name="ok">OK</string><string name="more_info">More Info</string><string name="download_path_key">download_path_key</string><string name="download_path_pref">Download path</string><string name="bionic_reading">Bionic Reading</string><string name="selectable_text">Selectable text</string><string name="sleep_timer">Sleep</string><string name="sleep_format">%d min</string><string name="sleep_format_stop">TTS will stop in %d min</string><string name="google_translate">Google translate</string></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" ns1:targetApi="35">true</item>
+
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:navigationBarColor">?attr/primaryBlackBackground</item>
+        <item name="android:colorEdgeEffect">?attr/textColor</item>
+
+        
+        <item name="android:statusBarColor">?attr/iconGrayBackground</item>
+
+        <item name="android:scrollbarThumbVertical">@null</item>
+        <item name="android:scrollbarThumbHorizontal">@null</item>
+
+        <item name="android:windowTranslucentStatus">true</item> 
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="alertDialogTheme">@style/Theme.AlertDialog</item>
+
+        <item name="android:textViewStyle">@style/AppTextViewStyle</item>
+        <item name="android:buttonStyle">@style/AppButtonStyle</item>
+        <item name="android:editTextStyle">@style/AppEditStyle</item>
+        <item name="materialButtonStyle">@style/AppMaterialButtonStyle</item>
+        <item name="preferenceFragmentCompatStyle">@style/PreferenceTheme</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+        <item name="searchViewStyle">@style/AppSearchViewStyle</item>
+        <item name="android:searchViewStyle">@style/AndroidSearchView</item>
+
+        <item name="tabStyle">@style/Theme.Widget.Tabs</item>
+        <item name="android:divider">@color/transparent</item>
+        <item name="divider">@color/transparent</item>
+        <item name="android:dividerHeight">0dp</item>
+        <item name="showDividers">none</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+
+        
+
+        
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorSecondary">?attr/grayTextColor</item>
+
+        <item name="android:textColorHint">?attr/grayTextColor</item>
+        <item name="android:editTextColor">?attr/textColor</item>
+        <item name="android:colorForeground">?attr/textColor</item>
+        <item name="android:colorControlHighlight">?attr/textColor</item> 
+
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        
+
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textColor">@color/textColor</item>
+        <item name="colorOnPrimary">@color/whiteText</item>
+        <item name="grayTextColor">@color/grayTextColor</item>
+        <item name="primaryGrayBackground">@color/primaryGrayBackground</item>
+        <item name="primaryBlackBackground">@color/primaryBlackBackground</item>
+        <item name="iconGrayBackground">@color/iconGrayBackground</item>
+        <item name="boxItemBackground">@color/boxItemBackground</item>
+        <item name="iconColor">?attr/textColor</item>
+        <item name="white">#FFF</item>
+
+        
+    </style><style name="TabNoCaps" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="fontFamily">@font/google_sans</item>
+    </style><style name="CheckLabel" parent="@style/NoCheckLabel">
+
+        <item name="drawableTint">@color/check_selection_color</item>
+        
+        <item name="android:checkMark">?android:attr/listChoiceIndicatorSingle</item>
+        <item name="drawableStartCompat">@drawable/ic_baseline_check_24_listview</item>
+    </style><style name="NoCheckLabel" parent="@style/AppTextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="android:textColor">@color/text_selection_color</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:drawablePadding">20dp</item>
+    </style><style name="PreferenceTheme" parent="@style/AppTheme"/><style name="ListViewStyle" parent="Widget.AppCompat.ListView">
+        <item name="android:divider">@null</item>
+        <item name="android:listSelector">@drawable/outline_drawable_less</item>
+        <item name="android:drawSelectorOnTop">false</item>
+    </style><style name="AmoledMode">
+        <item name="primaryGrayBackground">@color/black</item>
+        <item name="primaryBlackBackground">@color/black</item>
+        <item name="iconGrayBackground">@color/primaryBlackBackground</item>
+        <item name="boxItemBackground">@color/black</item>
+        <item name="textColor">@color/textColor</item>
+        <item name="grayTextColor">@color/grayTextColor</item>
+        <item name="white">@color/white</item>
+        <item name="colorOnPrimary">@color/whiteText</item>
+    </style><style name="AndroidSearchView" parent="AppSearchViewStyle">
+        <item name="android:paddingStart">-10dp</item>
+    </style><style name="AmoledModeLight" parent="AmoledMode">
+        <item name="primaryGrayBackground">@color/amoledModeLight</item>
+    </style><style name="ChipReviewAlt" parent="ChipFilled">
+        <item name="chipBackgroundColor">?attr/textColor</item>
+        <item name="textColor">?attr/primaryGrayBackground</item>
+        <item name="android:textColor">?attr/primaryGrayBackground</item>
+
+        <item name="android:textSize">12sp</item>
+    </style><style name="ChipReview" parent="ChipFilled">
+        <item name="chipBackgroundColor">?attr/primaryGrayBackground</item>
+        <item name="textColor">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+
+        <item name="android:textSize">12sp</item>
+    </style><style name="ChipFilled" parent="@style/Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_color</item>
+        <item name="chipStrokeColor">@color/white_transparent_toggle</item>
+        <item name="chipStrokeWidth">2dp</item>
+        <item name="textColor">@color/chip_color_text</item>
+        <item name="android:textColor">@color/chip_color_text</item>
+        <item name="checkedIconTint">@color/chip_color_text</item>
+        <item name="fontFamily">@font/google_sans</item>
+        <item name="chipIconTint">@color/chip_color_text</item>
+        <item name="android:fontFamily">@font/google_sans</item>
+        <item name="chipMinTouchTargetSize">0dp</item>
+    </style><style name="ChipFilledSemiTransparent" parent="@style/ChipFilled">
+        <item name="chipBackgroundColor">@color/transparent</item>
+        <item name="chipSurfaceColor">@color/semiWhite</item>
+        <item name="backgroundColor">@color/transparent</item>
+    </style><style name="ChipParent">
+        <item name="chipSpacingVertical">5dp</item>
+        <item name="chipSpacingHorizontal">5dp</item>
+        <item name="textColor">?attr/textColor</item>
+    </style><style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:backgroundTint">?attr/primaryBlackBackground</item>
+    </style><style name="PreferencesTheme" parent="@style/Base.Theme.AppCompat">
+        <item name="android:textColorPrimary">?attr/textColor</item>
+        <item name="android:textColorSecondary">?attr/grayTextColor</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+        
+    </style><style name="ReadButtonStyle" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="rippleColor">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="iconTint">?attr/textColor</item>
+        <item name="iconPadding">10dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="iconGravity">textStart</item>
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="AppSearchViewStyle" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:searchIcon">@drawable/search_icon</item>
+        <item name="android:queryHint">@string/search_hint</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:fontFamily">@font/google_sans</item>
+        
+    </style><style name="AppBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style><style name="AppModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_dialog</item>
+    </style><style name="Theme.AlertDialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowBackground">@drawable/dialog__window_background</item>
+
+        <item name="textColorAlertDialogListItem">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorPrimary">?attr/textColor</item>
+
+        <item name="textAllCaps">false</item>
+    </style><style name="LoadedStyle">
+        <item name="android:navigationBarColor">?attr/primaryGrayBackground</item>
+        <item name="android:windowBackground">?attr/primaryBlackBackground</item>
+    </style><style name="AlertDialogCustom" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="android:textColorPrimary">?attr/textColor</item>
+        
+        <item name="android:textAllCaps">false</item>
+        
+        <item name="textColorAlertDialogListItem">?attr/textColor</item>
+        <item name="colorControlNormal">?attr/textColor</item>
+        
+        <item name="colorControlActivated">?attr/colorPrimary</item>
+
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+        <item name="android:windowBackground">@drawable/dialog__window_background</item>
+    </style><style name="ResultInfoText">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="textColor">?attr/white</item>
+
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">24dp</item>
+        <item name="android:minWidth">0dp</item>
+        
+    </style><style name="AlertDialogCustomTransparent" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style><style name="AlertDialogCustomBlack" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">?attr/primaryBlackBackground</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+
+        
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:navigationBarColor">?attr/primaryBlackBackground</item>
+    </style><style name="RoundedBgTextView" parent="@android:style/Widget.TextView">
+        <item name="roundedTextHorizontalPadding">2dp</item>
+        <item name="roundedTextVerticalPadding">2dp</item>
+        <item name="roundedTextDrawable">@drawable/rounded_text_bg</item>
+        <item name="roundedTextDrawableLeft">@drawable/rounded_text_bg_left</item>
+        <item name="roundedTextDrawableMid">@drawable/rounded_text_bg_mid</item>
+        <item name="roundedTextDrawableRight">@drawable/rounded_text_bg_right</item>
+    </style><style name="AppEditStyle" parent="android:Widget.EditText">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style><style name="NiceButton">
+        
+        <item name="android:stateListAnimator">@null</item>
+
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconSize">20dp</item>
+        <item name="cornerRadius">@dimen/rounded_button_radius</item>
+        <item name="android:textSize">15sp</item>
+
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:foreground">@drawable/outline_drawable_less</item>
+    </style><style name="WhiteButton" parent="NiceButton">
+        <item name="strokeColor">?attr/iconGrayBackground</item>
+        <item name="backgroundTint">?attr/textColor</item>
+        <item name="iconTint">?attr/iconGrayBackground</item>
+        <item name="android:textColor">?attr/iconGrayBackground</item>
+        <item name="rippleColor">?attr/primaryBlackBackground</item>
+    </style><style name="BlackButton" parent="NiceButton">
+        <item name="strokeColor">?attr/textColor</item>
+        <item name="backgroundTint">?attr/iconGrayBackground</item>
+        <item name="iconTint">?attr/textColor</item>
+        <item name="android:textColor">?attr/textColor</item>
+        <item name="rippleColor">?attr/textColor</item>
+    </style><style name="WhiteCheckmark">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="textColor">?attr/textColor</item>
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="buttonTint">?attr/white</item>
+        <item name="buttonIconTint">?attr/primaryBlackBackground</item>
+    </style><style name="AppTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style><style name="AppButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style><style name="AppMaterialButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/google_sans</item>
+    </style><style name="Theme.Widget.Tabs" parent="Widget.MaterialComponents.TabLayout.Colored">
+        <item name="tabRippleColor">?attr/textColor</item>
+
+        
+    </style><style name="LightMode">
+        <item name="primaryGrayBackground">@color/lightPrimaryGrayBackground</item>
+        <item name="primaryBlackBackground">@color/lightBitDarkerGrayBackground</item>
+        <item name="iconGrayBackground">@color/lightGrayBackground</item>
+        <item name="boxItemBackground">@color/lightItemBackground</item>
+        <item name="textColor">@color/lightTextColor</item>
+        <item name="grayTextColor">@color/lightGrayTextColor</item>
+        <item name="white">#000</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+    </style><style name="OverlayPrimaryColorParty">
+        <item name="colorPrimary">@color/colorPrimaryParty</item>
+        <item name="android:colorPrimary">@color/colorPrimaryParty</item>
+        <item name="colorPrimaryDark">#C1495B</item>
+        <item name="colorAccent">#FD798C</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+        <item name="android:colorAccent">@color/colorPrimaryParty</item>
+    </style><style name="OverlayPrimaryColorPink">
+        <item name="colorPrimary">@color/colorPrimaryPink</item>
+        <item name="android:colorPrimary">@color/colorPrimaryPink</item>
+        <item name="colorPrimaryDark">#DD1280</item>
+        <item name="colorAccent">#FF4DAE</item>
+        <item name="colorOnPrimary">@color/blackText</item>
+        <item name="android:colorAccent">@color/colorPrimaryPink</item>
+    </style><style name="OverlayPrimaryColorMonet">
+        <item name="colorPrimary">@color/material_dynamic_primary80</item>
+        <item name="android:colorPrimary">@color/material_dynamic_primary80</item>
+        <item name="colorPrimaryDark">@color/material_dynamic_primary30</item>
+        <item name="colorAccent">@color/material_dynamic_primary80</item>
+        <item name="colorOnPrimary">@color/material_dynamic_primary20</item>
+        
+        <item name="android:colorAccent">@color/material_dynamic_primary80</item>
+    </style><style name="OverlayPrimaryColorMonetTwo">
+        <item name="colorPrimary">@color/material_dynamic_secondary80</item>
+        <item name="android:colorPrimary">@color/material_dynamic_secondary80</item>
+        <item name="colorPrimaryDark">@color/material_dynamic_secondary30</item>
+        <item name="colorAccent">@color/material_dynamic_secondary80</item>
+        <item name="colorOnPrimary">@color/material_dynamic_secondary20</item>
+        
+        <item name="android:colorAccent">@color/material_dynamic_secondary80</item>
+    </style><style name="MonetMode">
+        <item name="primaryGrayBackground">@color/material_dynamic_neutral20</item>
+        <item name="primaryBlackBackground">@color/material_dynamic_neutral10</item>
+        <item name="iconGrayBackground">@color/material_dynamic_neutral20</item>
+        <item name="boxItemBackground">@color/material_dynamic_neutral20</item>
+        <item name="textColor">@color/material_dynamic_neutral90</item>
+        <item name="grayTextColor">@color/material_dynamic_neutral60</item>
+        <item name="white">@color/material_dynamic_neutral90</item>
+        <item name="colorOnPrimary">@color/material_on_primary_emphasis_medium</item>
+    </style><style name="OverlayPrimaryColorNormal">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorOnPrimary">@color/colorAccent</item>
+        
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style><style name="OverlayPrimaryColorBlue">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">#4855A2</item>
+        <item name="colorAccent">#5A6BCB</item>
+        <item name="colorOnPrimary">#5A6BCB</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryBlue</item>
+    </style><style name="OverlayPrimaryColorPurple">
+        <item name="colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="android:colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="colorPrimaryDark">#4704A3</item>
+        <item name="colorAccent">#7125DB</item>
+        <item name="colorOnPrimary">#7125DB</item>
+        <item name="android:colorAccent">@color/colorPrimaryPurple</item>
+    </style><style name="OverlayPrimaryColorGreen">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">#007363</item>
+        <item name="colorAccent">#39C1AE</item>
+        <item name="colorOnPrimary">#39C1AE</item>
+        <item name="android:colorAccent">@color/colorPrimaryGreen</item>
+    </style><style name="OverlayPrimaryColorGreenApple">
+        <item name="colorPrimary">@color/colorPrimaryGreenApple</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGreenApple</item>
+        <item name="colorPrimaryDark">#319B5A</item>
+        <item name="colorAccent">#51C57E</item>
+        <item name="colorOnPrimary">#51C57E</item>
+        <item name="android:colorAccent">@color/colorPrimaryGreenApple</item>
+    </style><style name="OverlayPrimaryColorRed">
+        <item name="colorPrimary">@color/colorPrimaryRed</item>
+        <item name="android:colorPrimary">@color/colorPrimaryRed</item>
+        <item name="colorPrimaryDark">#D53333</item>
+        <item name="colorAccent">#F53B3B</item>
+        <item name="colorOnPrimary">#EC3838</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryRed</item>
+    </style><style name="OverlayPrimaryColorCarnationPink">
+        <item name="colorPrimary">@color/colorPrimaryCarnationPink</item>
+        <item name="android:colorPrimary">@color/colorPrimaryCarnationPink</item>
+        <item name="colorPrimaryDark">#83366f</item>
+        <item name="colorAccent">#BD5DA5</item>
+        <item name="colorOnPrimary">#BD5DA5</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryCarnationPink</item>
+    </style><style name="OverlayPrimaryColorMaroon">
+        <item name="colorPrimary">@color/colorPrimaryMaroon</item>
+        <item name="android:colorPrimary">@color/colorPrimaryMaroon</item>
+        <item name="colorPrimaryDark">#370C0C</item>
+        <item name="colorAccent">#451010</item>
+        <item name="colorOnPrimary">#451010</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryMaroon</item>
+    </style><style name="OverlayPrimaryColorDarkGreen">
+        <item name="colorPrimary">@color/colorPrimaryDarkGreen</item>
+        <item name="android:colorPrimary">@color/colorPrimaryDarkGreen</item>
+        <item name="colorPrimaryDark">#003d00</item>
+        <item name="colorAccent">#004500</item>
+        <item name="colorOnPrimary">#004500</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryDarkGreen</item>
+    </style><style name="OverlayPrimaryColorNavyBlue">
+        <item name="colorPrimary">@color/colorPrimaryNavyBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryNavyBlue</item>
+        <item name="colorPrimaryDark">#000073</item>
+        <item name="colorAccent">#000080</item>
+        <item name="colorOnPrimary">#000080</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryNavyBlue</item>
+    </style><style name="OverlayPrimaryColorGrey">
+        <item name="colorPrimary">@color/colorPrimaryGrey</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGrey</item>
+        <item name="colorPrimaryDark">#484848</item>
+        <item name="colorAccent">#515151</item>
+        <item name="colorOnPrimary">#515151</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryGrey</item>
+    </style><style name="OverlayPrimaryColorWhite">
+        <item name="colorPrimary">@color/colorPrimaryWhite</item>
+        <item name="android:colorPrimary">@color/colorPrimaryWhite</item>
+        <item name="colorPrimaryDark">#CCCCCC</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryWhite</item>
+    </style><style name="OverlayPrimaryColorBrown">
+        <item name="colorPrimary">@color/colorPrimaryBrown</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBrown</item>
+        <item name="colorPrimaryDark">#582700</item>
+        <item name="colorAccent">#622C00</item>
+        <item name="colorOnPrimary">#622C00</item>
+        
+        <item name="android:colorAccent">@color/colorPrimaryBrown</item>
+    </style><style name="OverlayPrimaryColorBanana">
+        <item name="colorPrimary">@color/colorPrimaryBanana</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBanana</item>
+        <item name="colorPrimaryDark">#9B7D31</item>
+        <item name="colorAccent">#C5B251</item>
+        <item name="colorOnPrimary">#C5A851</item>
+        <item name="android:colorAccent">@color/colorPrimaryBanana</item>
+    </style></file><file path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\values-tr\strings.xml" qualifiers="tr"><string name="app_name">Anansi</string><string name="title_search">Ara</string><string name="title_history">Geçmiş</string><string name="title_settings">Ayarlar</string><string name="title_home">Keşfet</string><string name="title_download">Kütüphane</string><string name="locale_key" translatable="false">locale_key</string><string name="provider_lang_key" translatable="false">provider_lang_key</string><string name="restore_key" translatable="false">restore_key</string><string name="restore_settings">Verileri yedekten geri yükle</string><string name="search_hint">Roman Ara</string><string name="synopsis">Özet</string><string name="no_data">Veri Yok</string><string name="no_author">Yazar bulunamadı</string><string name="no_chapters">Bölüm Yok</string><string name="generate_epub">Epub Oluştur</string><string name="generating_epub">Epub Oluşturuluyor</string><string name="reload_error">Bağlantıyı yeniden dene…</string><string name="download_text">İndir</string><string name="download">İndir</string><string name="novel_imagecover_descript">Roman Kapak Görseli</string><string name="background_image_descript">Arka Plan Görseli</string><string name="back_to_search">Aramaya geri dön</string><string name="downloads_text">İndirilenler</string><string name="open_text">Oku</string><string name="update_text">Güncelle</string><string name="provider_list_key">provider_list</string><string name="search_providers_list_key">search_providers_list</string><string name="auto_update_key">auto_update</string><string name="external_reader_key">external_reader</string><string name="remove_external_key">remove_external</string><string name="manual_check_update_key">manual_check_update</string><string name="backup_key">backup_key</string><string name="rating_format_key">rating_format</string><string name="grid_format_key">grid_format</string><string name="download_format_key">download_format</string><string name="exampleTXT">"bu <annotation key="rounded">normal bir</annotation> paragraf."</string><string name="tags">Etiketler</string><string name="views">Görüntülemeler</string><string name="delete">Sil</string><string name="open_in_browser">Tarayıcıda Aç</string><string name="select_chapter">Bölüm Seç</string><string name="poster_descript">Afiş</string><string name="sort_downloads_descript">İndirilenleri Sırala</string><string name="filter_dialog_sort_by">Sırala</string><string name="filter_dialog_filter">Uygula</string><string name="filter_dialog_general">Genel:</string><string name="filter_dialog_order_by">Sıralama ölçütü:</string><string name="filter_dialog_genre">Tür:</string><string name="browse_list_icon">Simge</string><string name="home_title_text">Keşfet</string><string name="mainpage_filter">Filtre</string><string name="shadow_descript">Gölge</string><string name="user_image_avatar">Avatar</string><string name="change_providers_descript">Sağlayıcı Değiştir</string><string name="poster_open_source_descript">Açık Kaynak</string><string name="mainpage_sort_by_button_text">Sırala</string><string name="read_action_settings">Ayarlar</string><string name="read_action_chapters">Bölümler</string><string formatted="true" name="read_action_chapters_formatted">%d Bölüm</string><string name="read_action_tts">Metni Seslendirme</string><string name="read_action_screen_rotation">Ekran Döndürme</string><string name="grid_view">Izgara</string><string name="list_view">Liste</string><string name="download_open_action">Aç</string><string name="download_read_action">Oku</string><string name="download_update_action">Güncelle</string><string name="download_delete_action">Sil</string><string name="default_text">Varsayılan</string><string name="rotation_type">Döndürme türü</string><string name="rotation_free">Serbest</string><string name="rotation_portrait">Dikey</string><string name="rotation_landscape">Yatay</string><string name="rotation_force_portrait">Kilitli dikey</string><string name="rotation_force_landscape">Kilitli yatay</string><string name="inf_scroll">Sonsuz kaydırma</string><string name="button_scroll">Bölüm düğmeleri</string><string name="overscroll_scroll">Aşırı kaydırma</string><string name="type_reading">Okunuyor</string><string name="type_on_hold">Beklemede</string><string name="type_completed">Tamamlandı</string><string name="type_dropped">Terk Edildi</string><string name="type_plan_to_read">Okumayı Planla</string><string name="type_none">Hiçbiri</string><string name="read_display_settings">Ayarlar</string><string name="read_text_size">Metin</string><string name="bigger_font">Daha Büyük Yazı Tipi</string><string name="smaller_font">Daha Küçük Yazı Tipi</string><string name="scroll_with_volume_keys">Ses tuşlarıyla kaydır</string><string name="general_settings">Genel</string><string name="lock_tts">Metni seslendirme kaydırma alanını kilitle</string><string name="reading_color">Okuma Rengi</string><string name="read_color">Okuyucu Teması</string><string name="show_battery">Pil Göster</string><string name="show_time">Zaman Göster</string><string name="result_share">Paylaş</string><string name="reader_font">Okuyucu Yazı Tipi</string><string name="font">Yazı Tipi</string><string name="background_color">Arka Plan Rengi</string><string name="text_color">Metin Rengi</string><string name="long_download_time">Uyarı, bu kaynak aşırı uzun indirme süresine sahip, akış önerilir</string><string name="quickstream_novel_text">Romanı akışla oku</string><string name="history_more_options">Daha Fazla Seçenek</string><string name="stream_read">Akışla Oku</string><string name="clear_history">Geçmişi Temizle</string><string name="nothing_read_recently">Yakın zamanda okunan bir şey yok</string><string name="monke_eating">Maymun Yiyor</string><string name="tab_downloads">İndirilenler</string><string name="reviews_to_top">Başa dön</string><string name="text_size">Metin Boyutu</string><string name="text_padding">Metin Yan Boşluğu</string><string name="reset_value">Varsayılana sıfırla</string><string name="text_font">Metin Yazı Tipi</string><string name="scroll_type">Kaydırma Türü</string><string name="no_chapters_found">Bölüm bulunamadı</string><string name="error_loading_novel">Roman yüklenirken hata oluştu</string><string name="error_loading_chapter">Bölüm yüklenirken hata oluştu</string><string name="text_padding_top">Metin Üst Boşluğu</string><string name="home_more_info">Daha fazla bilgi</string><string name="home_expanded_hide">Gizle</string><string name="reload_chapter">Bölümü Yeniden Yükle</string><string name="provider_lang_settings">Sağlayıcı Dilleri</string><string name="locale_settings">Uygulama Dilleri</string><string name="sort_apply">Uygula</string><string name="sort_cancel">İptal</string><string name="keep_screen_active">Ekranı açık tut</string><string name="twelve_hour_time">12 Saatlik zaman</string><string name="backup_settings">Verileri yedekle</string><string name="restore_success">Yedek dosyası yüklendi</string><string formatted="true" name="restore_failed_format">%s dosyasından veri geri yüklenemedi</string><string name="backup_success">Veriler başarıyla kaydedildi</string><string name="backup_failed">Depolama izinleri eksik, lütfen tekrar deneyin</string><string name="backup_failed_error_format">%s yedeklenirken hata oluştu</string><string name="tts_locale">Dil</string><string name="tts_voice">Ses</string><string name="tts_voice_title">Metni Seslendirme Sesi</string><string name="theme_key">theme_key</string><string name="theme">Tema</string><string name="primary_color_key">primary_color_key</string><string name="primary_color_settings">Ana Renk</string><string name="library_display_mode">Kütüphane Görüntüleme Modu</string><string name="rating_format">Derecelendirme Formatı</string><string name="cancel">İptal</string><string name="remove">Kaldır</string><string name="remove_from_history_format">%s geçmişinizden kaldırılacak.\nEmin misiniz?</string><string name="permanently_delete_format">%s kalıcı olarak silinecek.\nEmin misiniz?</string><string name="remove_all_history">Emin misiniz?\nTüm geçmiş kaybolacak.</string><string name="remove_history">Geçmişi Kaldır</string><string name="search_providers">Sağlayıcıları Ara</string><string name="no_more_chapters">Başka bölüm yok</string><string name="paused">Duraklatıldı</string><string name="stopped">Durduruldu</string><string name="failed">Başarısız</string><string name="done">Tamamlandı</string><string name="ongoing">Devam Ediyor</string><string name="completed">Tamamlandı</string><string name="dropped">Terk Edildi</string><string name="stubbed">Yarım Kaldı</string><string name="text_to_speech">Metni Seslendirme</string><string name="text_to_speech_channel_description">Metni seslendirme bildirim kanalı</string><string name="overall_rating_format">Genel %s</string><string name="battery_format">%d%%</string><string name="novel">Roman</string><string name="reviews">Yorumlar</string><string name="related">İlgili</string><string name="votes_format">%d Oy</string><string name="latest_format">En son: %s</string><string name="new_update_found_format">Yeni güncelleme bulundu!\n %s -> %s</string><string name="download_started">İndirme başladı</string><string name="download_failed">İndirme başarısız</string><string name="update">Güncelle</string><string name="dont_show_again">Tekrar gösterme</string><string name="downloaded">İndirildi</string><string name="pause">Duraklat</string><string name="resume">Devam Et</string><string name="re_downloaded">Yeniden İndir</string><string name="loading">Yükleniyor…</string><string formatted="true" name="loading_format">%s Yükleniyor…</string><string formatted="true" name="chapter_format">Bölüm %s</string><string name="default_sort">Varsayılan</string><string name="recently_sort">Yakın zamanda açılan</string><string name="alpha_sort_az">Alfabetik (A-Z)</string><string name="alpha_sort_za">Alfabetik (Z-A)</string><string name="download_sort_hl">"İndirme sayısı (yüksekten düşüğe)"</string><string name="download_sort_lh">"İndirme sayısı (düşükten yükseğe)"</string><string name="download_perc_hl">İndirme yüzdesi (yüksekten düşüğe)</string><string name="download_perc_lh">İndirme yüzdesi (düşükten yükseğe)</string><string name="reload_chapter_format">Bölüm %s yeniden yükleniyor</string><string name="ok">Tamam</string><string name="more_info">Daha Fazla Bilgi</string><string name="download_path_key">download_path_key</string><string name="download_path_pref">İndirme yolu</string><string name="bionic_reading">Biyonik Okuma</string></file><file name="provider_paths" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\xml\provider_paths.xml" qualifiers="" type="xml"/><file name="settings" path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Arslan Ahmad\My things\code\Anansi\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="TextRoundedBgHelper">
+        <attr format="dimension" name="roundedTextHorizontalPadding"/>
+        <attr format="dimension" name="roundedTextVerticalPadding"/>
+        <attr format="reference" name="roundedTextDrawable"/>
+        <attr format="reference" name="roundedTextDrawableLeft"/>
+        <attr format="reference" name="roundedTextDrawableMid"/>
+        <attr format="reference" name="roundedTextDrawableRight"/>
+    </declare-styleable><declare-styleable name="MainColors">
+        <attr format="color" name="colorPrimary"/>
+        <attr format="color" name="colorSearch"/>
+        <attr format="color" name="colorOngoing"/>
+        <attr format="color" name="colorPrimaryDark"/>
+
+        <attr format="color" name="primaryGrayBackground"/>
+        <attr format="color" name="primaryBlackBackground"/>
+        <attr format="color" name="iconGrayBackground"/>
+        <attr format="color" name="boxItemBackground"/>
+
+        <attr format="color" name="textColor"/>
+        <attr format="color" name="grayTextColor"/>
+        <attr format="color" name="iconColor"/>
+        <attr format="color" name="white"/>
+    </declare-styleable><declare-styleable name="FlowLayout_Layout">
+        <attr format="dimension" name="itemSpacing"/>
+    </declare-styleable><declare-styleable name="FlowLayout_Layout_layout_space"/></configuration></mergedItems></merger>

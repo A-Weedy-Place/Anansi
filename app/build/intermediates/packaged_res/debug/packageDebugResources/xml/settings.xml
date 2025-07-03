@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory />
+    <PreferenceCategory
+            android:key="search"
+            android:title="Search"
+            app:isPreferenceVisible="true">
+        <Preference
+                android:key="@string/download_path_key"
+                android:title="@string/download_path_pref"
+                android:icon="@drawable/netflix_download" />
+        <!--<ListPreference
+                app:icon="@drawable/ic_baseline_grid_view_24"
+                android:key="@string/grid_format_key"
+                android:title="Display Mode"
+                app:defaultValue="grid"
+                app:useSimpleSummaryProvider="true"
+                android:entries="@array/GridFormat"
+                android:entryValues="@array/GridFormatData" />-->
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+            android:key="general"
+            android:title="General"
+            app:isPreferenceVisible="true">
+        <!--
+        <ListPreference
+                app:icon="@drawable/ic_baseline_cloud_24"
+                android:key="@string/provider_list_key"
+                android:title="Active Provider"
+                app:useSimpleSummaryProvider="true" />-->
+
+        <Preference
+                app:key="@string/theme_key"
+                android:title="@string/theme"
+                android:icon="@drawable/ic_baseline_color_lens_24"
+                app:useSimpleSummaryProvider="true" />
+        <Preference
+                app:key="@string/primary_color_key"
+                android:title="@string/primary_color_settings"
+                android:icon="@drawable/ic_baseline_color_lens_24"
+                app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+</PreferenceScreen>
